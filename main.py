@@ -11,17 +11,13 @@ listing_titles = pd.read_csv('./testset/Listing_Titles.tsv', sep='\t', on_bad_li
 
 tagged_titles = pd.read_csv('./testset/Train_Tagged_Titles.tsv', sep='\t', on_bad_lines='skip', quoting=csv.QUOTE_NONE, encoding='utf8')
 
-tags = ['accents', 'brand', 'character', 'character family', 'closure', 'color', 'country/region of manufacture', 'department', 'fabric type', 'features', 'handle drop', 'handle style', 'handle/strap material', 'hardware material', 'lining material', 'mpn', 'material', 'measurement, dimension', 'model', 'occasion', 'pattern', 'pocket type', 'product line', 'season', 'size', 'strap drop', 'style', 'theme', 'trim material', 'type']
+tags = ['Accents', 'Brand', 'Character', 'Character Family', 'Closure', 'Color', 'Country/Region of Manufacture', 'Department', 'Fabric Type', 'Features', 'Handle Drop', 'Handle Style', 'Handle/Strap Material', 'Hardware Material', 'Lining Material', 'MPN', 'Material', 'Measurement, Dimension', 'Model', 'Occasion', 'Pattern', 'Pocket Type', 'Product Line', 'Season', 'Size', 'Strap Drop', 'Style', 'Theme', 'Trim Material', 'Type']
 
-dirty_dic = tagged_titles.groupby('Tag')['Token'].apply(list)
-
-print(dirty_dic)
-
-# quit
-
-# df2 = tagged_titles[0:100].groupby(['Tag']).sum()
+series = tagged_titles.groupby('Tag')['Token'].apply(list)
+clean_dic = {k: series[k] for k in tags if k in series}
+clean_dic = {item.lower() : set({x.lower() for x in value }) for (item, value) in clean_dic.items()}
+print(clean_dic)
 
 
-# print(tagged_titles[97:104])
-# print("--------------------")
-# print(df2[0:10])
+
+#remove punctuation
