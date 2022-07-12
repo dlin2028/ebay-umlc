@@ -1,3 +1,4 @@
+from cmath import nan
 import pandas as pd
 import csv
 import json
@@ -17,6 +18,14 @@ print("<3<3 wuwuwuwuuw I LOVE AMOURANTH DSLKFJSLDKFJSDLK:FJ")
 print(ass[1])
 
 amouranth = [[(tiddies[i][tiddie], ass[i][tiddie]) for tiddie in range(0, len(ass[i]))] for i in range(1, len(ass) + 1)]
+
+for i in range(0, len(amouranth)):
+    for j in reversed(range(1, len(amouranth[i]))):
+        if(amouranth[i][j][1] != amouranth[i][j][1]): #python nan moment
+            amouranth[i][j - 1] = (amouranth[i][j - 1][0] + " " + amouranth[i][j][0], amouranth[i][j - 1][1])
+
+amouranth = [[i for i in item if not i[1] != i[1]] for item in amouranth]
+
 
 # [[(LOUIS, Brand), (VITTON, Brand)],[(LOUIS, Brand), (VITTON, Brand)...
 
