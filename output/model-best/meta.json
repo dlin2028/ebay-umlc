@@ -1,0 +1,238 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.3.1,<3.4.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"5fb597f77",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "Accents",
+      "Brand",
+      "Character",
+      "Character Family",
+      "Closure",
+      "Color",
+      "Country/Region of Manufacture",
+      "Department",
+      "Fabric Type",
+      "Features",
+      "Handle Drop",
+      "Handle Style",
+      "Handle/Strap Material",
+      "Hardware Material",
+      "Lining Material",
+      "MPN",
+      "Material",
+      "Measurement, dimension",
+      "Model",
+      "No Tag",
+      "Obscure",
+      "Occasion",
+      "Pattern",
+      "Pocket Type",
+      "Product Line",
+      "Season",
+      "Size",
+      "Strap Drop",
+      "Style",
+      "Theme",
+      "Trim Material",
+      "Type"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.9183298539,
+    "ents_p":0.9241176471,
+    "ents_r":0.9126141079,
+    "ents_per_type":{
+      "Brand":{
+        "p":0.9462774958,
+        "r":0.9561872195,
+        "f":0.9512065483
+      },
+      "MPN":{
+        "p":0.8926630435,
+        "r":0.7586605081,
+        "f":0.8202247191
+      },
+      "Type":{
+        "p":0.9704280156,
+        "r":0.9687526975,
+        "f":0.9695896328
+      },
+      "Model":{
+        "p":0.848434238,
+        "r":0.8246753247,
+        "f":0.8363860877
+      },
+      "Features":{
+        "p":0.7865168539,
+        "r":0.8006535948,
+        "f":0.7935222672
+      },
+      "Fabric Type":{
+        "p":0.9364341085,
+        "r":0.9541864139,
+        "f":0.9452269171
+      },
+      "Color":{
+        "p":0.9609067777,
+        "r":0.9755753875,
+        "f":0.9681855262
+      },
+      "Closure":{
+        "p":0.8644578313,
+        "r":0.8803680982,
+        "f":0.8723404255
+      },
+      "Pattern":{
+        "p":0.9148044693,
+        "r":0.8573298429,
+        "f":0.8851351351
+      },
+      "Material":{
+        "p":0.9312727273,
+        "r":0.9436256448,
+        "f":0.9374084919
+      },
+      "No Tag":{
+        "p":0.9081873315,
+        "r":0.9603634096,
+        "f":0.9335469068
+      },
+      "Product Line":{
+        "p":0.8582375479,
+        "r":0.8623676612,
+        "f":0.8602976476
+      },
+      "Theme":{
+        "p":0.6484848485,
+        "r":0.3322981366,
+        "f":0.4394250513
+      },
+      "Country/Region of Manufacture":{
+        "p":0.8973214286,
+        "r":0.8553191489,
+        "f":0.8758169935
+      },
+      "Occasion":{
+        "p":0.8952205882,
+        "r":0.8903107861,
+        "f":0.8927589368
+      },
+      "Department":{
+        "p":0.9752604167,
+        "r":0.9493029151,
+        "f":0.9621066153
+      },
+      "Size":{
+        "p":0.9567346939,
+        "r":0.9685950413,
+        "f":0.9626283368
+      },
+      "Handle/Strap Material":{
+        "p":0.9158249158,
+        "r":0.9096989967,
+        "f":0.9127516779
+      },
+      "Handle Style":{
+        "p":0.8759689922,
+        "r":0.8828125,
+        "f":0.8793774319
+      },
+      "Accents":{
+        "p":0.787258248,
+        "r":0.7706013363,
+        "f":0.7788407428
+      },
+      "Style":{
+        "p":0.8136020151,
+        "r":0.6976241901,
+        "f":0.7511627907
+      },
+      "Hardware Material":{
+        "p":0.679245283,
+        "r":0.5454545455,
+        "f":0.6050420168
+      },
+      "Trim Material":{
+        "p":1.0,
+        "r":0.02,
+        "f":0.0392156863
+      },
+      "Measurement, dimension":{
+        "p":0.6343283582,
+        "r":0.6390977444,
+        "f":0.6367041199
+      },
+      "Pocket Type":{
+        "p":0.7419354839,
+        "r":0.4693877551,
+        "f":0.575
+      },
+      "Character":{
+        "p":0.4074074074,
+        "r":0.22,
+        "f":0.2857142857
+      },
+      "Obscure":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "Season":{
+        "p":0.9523809524,
+        "r":0.7692307692,
+        "f":0.8510638298
+      },
+      "Character Family":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "Lining Material":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "Strap Drop":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "Handle Drop":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      }
+    },
+    "tok2vec_loss":2038.2199243194,
+    "ner_loss":9369.1584292535
+  }
+}
