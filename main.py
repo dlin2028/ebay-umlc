@@ -17,21 +17,32 @@ print(tiddies[1])
 print("<3<3 wuwuwuwuuw I LOVE AMOURANTH DSLKFJSLDKFJSDLK:FJ")
 print(ass[1])
 
-amouranth = [[(tiddies[i][tiddie], ass[i][tiddie]) for tiddie in range(0, len(ass[i]))] for i in range(1, len(ass) + 1)]
+kimk = [[(tiddies[i][tiddie], ass[i][tiddie]) for tiddie in range(0, len(ass[i]))] for i in range(1, len(ass) + 1)]
 
-for i in range(0, len(amouranth)):
-    for j in reversed(range(1, len(amouranth[i]))):
-        if(amouranth[i][j][1] != amouranth[i][j][1]): #python nan moment
-            amouranth[i][j - 1] = (amouranth[i][j - 1][0] + " " + amouranth[i][j][0], amouranth[i][j - 1][1])
+for i in range(0, len(kimk)):
+    for j in reversed(range(1, len(kimk[i]))):
+        if(kimk[i][j][1] != kimk[i][j][1]): #python nan moment
+            kimk[i][j - 1] = (kimk[i][j - 1][0] + " " + kimk[i][j][0], kimk[i][j - 1][1])
 
-amouranth = [[i for i in item if not i[1] != i[1]] for item in amouranth]
+delphine = [[i for i in item if not i[1] != i[1]] for item in kimk]
 
+tiddies = [' '.join([i[0] for i in item]) for item in delphine]
+ass = [[i[1] for i in item] for item in delphine]
 
+for i in range(0, len(ass)):
+    curr = 0
+    for j in range(0, len(ass[i])):
+        ass[i][j] = (curr, curr + len(delphine[i][j][0]), ass[i][j])
+        curr += len(delphine[i][j][0]) + 1
+
+amouranth = [[(tiddies[i], {'entities' : cheek}) for cheek in ass] for i in range(0, len(tiddies))]
+
+# [(text , {"entities" : entities })]
 # [[(LOUIS, Brand), (VITTON, Brand)],[(LOUIS, Brand), (VITTON, Brand)...
 
 #print(tiddies) #SHOW ME THE TIDDIES
-print("tiddies")
-print(amouranth)
+print("amouranth")
+print(delphine)
 
 # ['LOUIS', 'VUITTON', 'M40096', 'Handbag', 'Priscilla', 'Multi-color', 'canvas', 'Multi-color', 'canvas']
 # <3<3 wuwuwuwuuw I LOVE AMOURANTH DSLKFJSLDKFJSDLK:FJ
@@ -58,15 +69,15 @@ def find_tag(token):
 listing_titles = listing_titles.to_dict()
 titles = listing_titles['Title']
 #titles = {num : vals.split(" ") for (num, vals) in titles.items()}
-amouranth = {k : {find_tag(token.lower()) for token in title} for (k, title) in titles.items()}
+delphine = {k : {find_tag(token.lower()) for token in title} for (k, title) in titles.items()}
 
-print(amouranth)
+print(delphine)
 print(titles)
 
 output = ""
-for i in range(len(amouranth)):
-    for j in range(len(list(amouranth.values())[i])):
-        output += str(i) + " " + list(list(titles.values())[i])[j] + " " + list(list(amouranth.values())[i])[j] + "\n"
+for i in range(len(delphine)):
+    for j in range(len(list(delphine.values())[i])):
+        output += str(i) + " " + list(list(titles.values())[i])[j] + " " + list(list(delphine.values())[i])[j] + "\n"
 
 f = open("output.txt", "w")
 f.write(output)
