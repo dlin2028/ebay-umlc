@@ -3,19 +3,21 @@ import pandas as pd
 import csv
 import json
 import string
+import spacy
+from spacy.tokens import DocBin
 
-listing_titles = pd.read_csv('./testset/Listing_Titles.tsv', sep='\t', on_bad_lines='skip', quoting=csv.QUOTE_NONE, encoding='utf8')
+#listing_titles = pd.read_csv('./testset/Listing_Titles.tsv', sep='\t', on_bad_lines='skip', quoting=csv.QUOTE_NONE, encoding='utf8')
 
-tagged_titles = pd.read_csv('./testset/Train_Tagged_Titles.tsv', sep='\t', on_bad_lines='skip', quoting=csv.QUOTE_NONE, encoding='utf8')
+tagged_titles = pd.read_csv('./dataset/Train_Tagged_Titles.tsv', sep='\t', on_bad_lines='skip', quoting=csv.QUOTE_NONE, encoding='utf8')
 
 tags = ['Accents', 'Brand', 'Character', 'Character Family', 'Closure', 'Color', 'Country/Region of Manufacture', 'Department', 'Fabric Type', 'Features', 'Handle Drop', 'Handle Style', 'Handle/Strap Material', 'Hardware Material', 'Lining Material', 'MPN', 'Material', 'Measurement, Dimension', 'Model', 'Occasion', 'Pattern', 'Pocket Type', 'Product Line', 'Season', 'Size', 'Strap Drop', 'Style', 'Theme', 'Trim Material', 'Type']
 
 tiddies = tagged_titles.groupby('Record Number')['Token'].apply(list).to_dict()
 ass = tagged_titles.groupby('Record Number')['Tag'].apply(list).to_dict()
 
-print(tiddies[1])
-print("<3<3 wuwuwuwuuw I LOVE AMOURANTH DSLKFJSLDKFJSDLK:FJ")
-print(ass[1])
+# print(tiddies[1])
+# print("<3<3 wuwuwuwuuw I LOVE AMOURANTH DSLKFJSLDKFJSDLK:FJ")
+# print(ass[1])
 
 kimk = [[(tiddies[i][tiddie], ass[i][tiddie]) for tiddie in range(0, len(ass[i]))] for i in range(1, len(ass) + 1)]
 
@@ -35,14 +37,30 @@ for i in range(0, len(ass)):
         ass[i][j] = (curr, curr + len(delphine[i][j][0]), ass[i][j])
         curr += len(delphine[i][j][0]) + 1
 
-amouranth = [[(tiddies[i], {'entities' : cheek}) for cheek in ass] for i in range(0, len(tiddies))]
+amouranth = [(tiddies[i], ass[i]) for i in range(0, len(tiddies))]
+
+nlp = spacy.blank("en")
+
+# the DocBin will store the example documents
+db = DocBin()
+for text, annotations in amouranth:
+    doc = nlp(text)
+    ents = []
+    for start, end, label in annotations:
+        span = doc.char_span(start, end, label=label)
+        ents.append(span)
+    doc.ents = ents
+    db.add(doc)
+db.to_disk("./amouranth.spacy")
 
 # [(text , {"entities" : entities })]
 # [[(LOUIS, Brand), (VITTON, Brand)],[(LOUIS, Brand), (VITTON, Brand)...
 
 #print(tiddies) #SHOW ME THE TIDDIES
-print("amouranth")
-print(delphine)
+# print("amouranth")
+# print(amouranth) #she's beeautiful
+
+
 
 # ['LOUIS', 'VUITTON', 'M40096', 'Handbag', 'Priscilla', 'Multi-color', 'canvas', 'Multi-color', 'canvas']
 # <3<3 wuwuwuwuuw I LOVE AMOURANTH DSLKFJSLDKFJSDLK:FJ
