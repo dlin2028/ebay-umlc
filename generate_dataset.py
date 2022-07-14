@@ -42,12 +42,16 @@ ner = nlp.add_pipe("ner")
 for tag in tags:
     ner.add_label(tag)
     
+dev = amouranth[::10]
+train = amouranth
+del train[::10]
+
 db = DocBin()
-for text, annotations in amouranth:
+for text, annotations in train:
     doc = nlp.make_doc(text)
     ents = []
     for start, end, label in annotations:
-        span = doc.char_span(start, end, label=label, alightment_mode="contract")
+        span = doc.char_span(start, end, label=label)
         if(span is None):
             print("skipping entity")
         else:
@@ -55,7 +59,24 @@ for text, annotations in amouranth:
     doc.ents = ents
     db.add(doc)
 
-db.to_disk("./amouranth.spacy")
+db.to_disk("./train.spacy")
+print("wrote " + str(len(train)) + " lines to ./train.spacy")
+
+db = DocBin()
+for text, annotations in dev:
+    doc = nlp.make_doc(text)
+    ents = []
+    for start, end, label in annotations:
+        span = doc.char_span(start, end, label=label)
+        if(span is None):
+            print("skipping entity")
+        else:
+            ents.append(span)
+    doc.ents = ents
+    db.add(doc)
+
+db.to_disk("./dev.spacy")
+print("wrote " + str(len(dev)) + " lines to ./dev.spacy")
 
 # [(text , {"entities" : entities })]
 # [[(LOUIS, Brand), (VITTON, Brand)],[(LOUIS, Brand), (VITTON, Brand)...
