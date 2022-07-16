@@ -1,4 +1,3 @@
-from cmath import nan
 import pandas as pd
 import csv
 import spacy
@@ -6,22 +5,24 @@ from spacy.tokens import DocBin
 
 #listing_titles = pd.read_csv('./testset/Listing_Titles.tsv', sep='\t', on_bad_lines='skip', quoting=csv.QUOTE_NONE, encoding='utf8')
 
-tagged_titles = pd.read_csv('./dataset/Train_Tagged_Titles.tsv', sep='\t', on_bad_lines='skip', quoting=csv.QUOTE_NONE, encoding='utf8')
+tagged_tiddies = pd.read_csv('./testset/Train_Tagged_Titles.tsv', sep='\t', on_bad_lines='skip', quoting=csv.QUOTE_NONE, encoding='utf8')
 
 tags = ['Accents', 'Brand', 'Character', 'Character Family', 'Closure', 'Color', 'Country/Region of Manufacture', 'Department', 'Fabric Type', 'Features', 'Handle Drop', 'Handle Style', 'Handle/Strap Material', 'Hardware Material', 'Lining Material', 'MPN', 'Material', 'Measurement, Dimension', 'Model', 'Occasion', 'Pattern', 'Pocket Type', 'Product Line', 'Season', 'Size', 'Strap Drop', 'Style', 'Theme', 'Trim Material', 'Type']
 
-tiddies = tagged_titles.groupby('Record Number')['Token'].apply(list).to_dict()
-ass = tagged_titles.groupby('Record Number')['Tag'].apply(list).to_dict()
+tiddies = tagged_tiddies.groupby('Record Number')['Token'].apply(list).to_dict()
+ass = tagged_tiddies.groupby('Record Number')['Tag'].apply(list).to_dict()
 
 # print(tiddies[1])
 # print("<3<3 wuwuwuwuuw I LOVE AMOURANTH DSLKFJSLDKFJSDLK:FJ")
+# Loois vittidie amouranth vintage  fartfabric(tm) screw-on 
+# Brand          Product Line Style Fabric Type    Closure
 # print(ass[1])
 
 kimk = [[(tiddies[i][tiddie], ass[i][tiddie]) for tiddie in range(0, len(ass[i]))] for i in range(1, len(ass) + 1)]
 
 for i in range(0, len(kimk)):
     for j in reversed(range(1, len(kimk[i]))):
-        if(kimk[i][j][1] != kimk[i][j][1]): #python nan moment
+        if ((((((((((((((kimk[i][j][1] != kimk[i][j][1])))))))))))))): #python nan moment
             kimk[i][j - 1] = (kimk[i][j - 1][0] + " " + kimk[i][j][0], kimk[i][j - 1][1])
 
 delphine = [[i for i in item if not i[1] != i[1]] for item in kimk]
