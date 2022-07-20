@@ -1,0 +1,1 @@
+python -m spacy init vectors en dataset/word_vecs.txt word_vectors
