@@ -1,1 +1,0 @@
-python -m spacy train config.cfg --output ./output --gpu-id 0
