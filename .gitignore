@@ -1,7 +1,9 @@
 *.spacy
 .devcontainer/
 output/
+models/
 dataset/
+trainset/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
