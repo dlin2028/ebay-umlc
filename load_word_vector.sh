@@ -1,0 +1,1 @@
+LC_ALL=C python -m spacy init vectors en ./trainset/word_vecs.txt ./trainset/word_vectors
