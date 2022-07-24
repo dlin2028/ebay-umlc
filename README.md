@@ -1,18 +1,32 @@
 # ebay-umlc
-eBay 2022 University Machine Learning Competition
+eBay 2022 University Machine Learning Competition team POOPy
 
-EHHEHEHEHh
 
-you should probably do  
+# Environment Setup
+Install VSCode to run the ipynb files
 
-sudo apt update && sudo apt upgrade  
-wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Linux-x86_64.sh  
+Update/upgrade packages  
+` sudo apt update && sudo apt upgrade  `
 
-TELL IT TO RUN INIT DURING THE INSTALLER  
-bash Miniconda3-py39_4.12.0-Linux-x86_64.sh  
+Download miniconda Installer  
+Make sure to tell it to init when the installer prompts you  
+`wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Linux-x86_64.sh`  
 
-git clone https://github.com/dlin2028/ebay-umlc.git  
-cd ebay-umlc  
+After installing miniconda close and reopen your terminal. You may need to run  
+`source ~/.bashrc  `  
 
-source ~/.bashrc  
-conda env create -f environment.yml  
+Clone the repo  
+`git clone https://github.com/dlin2028/ebay-umlc.git`  
+CD Into the directory  
+`cd ebay-umlc`  
+Create the environment from the environment.yml file (this will take a while)  
+`conda env create -f environment.yml`  
+
+# Running the Full Stack (dataset to output)
+Create a new directory ebay-umlc/dataset then paste the dataset .tsv files from the google drive  
+Make sure you select the poopy environment in VSCode  
+Generate the trainset by running generate_dataset.ipynb  
+Generate the word vectors by running word_vector.ipynb  
+Load the word vectors by running load_word_vector.sh  
+Train a model using train.sh (make sure to check the gpu-id option is set correctly, do not include it if you don't have a gpu)  
+Generate a prediction output by running predict.ipynb  
