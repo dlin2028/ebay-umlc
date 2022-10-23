@@ -1,0 +1,3735 @@
+,Record Number,Token,predicted,expected
+0,1,LOUIS VUITTON,Brand,Brand
+1,1,M40096,MPN,MPN
+2,1,Handbag,Type,Type
+3,1,Priscilla,Model,Model
+4,1,Multi-color,Color,Color
+5,1,Multi-color,Color,Color
+6,1,canvas,Fabric Type,Fabric Type
+7,1,canvas,Fabric Type,Fabric Type
+8,1,Multi-color,Color,Color
+9,1,Multi-color,Color,Color
+10,1,canvas,Fabric Type,Fabric Type
+11,1,canvas,Fabric Type,Fabric Type
+12,11,FOSSIL,Brand,Brand
+13,11,GREEN,Color,Color
+14,11,PLAID,Pattern,Pattern
+15,11,CANVAS,Fabric Type,Fabric Type
+16,11,BRIEFCASE,Type,Type
+17,11,CROSS BODY,Type,Type
+18,11,BAG,Type,Type
+19,21,Chanel,Brand,Brand
+20,21,Madamoiselle,Product Line,Model
+21,21,Lock,Closure,Closure
+22,21,Black,Color,Color
+23,21,Leather,Material,Material
+24,21,Accordian,Model,Accents
+25,21,Chain,Handle/Strap Material,Handle/Strap Material
+26,21,Flap,Type,Type
+27,21,Bag,Type,Type
+28,31,MICHAEL KORS,Brand,Brand
+29,31,JET SET,Product Line,Product Line
+30,31,TRAVEL,Occasion,
+31,31,MD DOME,Model,
+32,31,LEATHER,Material,Material
+33,31,CROSSBODY,Type,Type
+34,31,BAG,Type,Type
+35,31,BLUSH,Color,Color
+36,41,Half Moon,Features,Features
+37,41,Bag,Type,Type
+38,41,Women,Department,Department
+39,41,Shoulder,Type,Type
+40,41,Rattan,Material,Material
+41,41,Casual,Occasion,Occasion
+42,41,Bags,Type,Type
+43,41,Travel,Occasion,Occasion
+44,41,Lady,Department,Department
+45,41,Crossbody,Type,Type
+46,41,Purse,Type,Type
+47,51,GUCCI,Brand,Brand
+48,51,GG,Brand,
+49,51,Plus,Model,
+50,51,Web Sherry Line,Product Line,Product Line
+51,51,Shoulder,Type,Type
+52,51,Tote,Type,Type
+53,51,Bag,Type,Type
+54,51,PVC Leather,Material,Material
+55,51,Brown,Color,Color
+56,61,Bally Akira,Brand,
+57,61,Black,Color,Color
+58,61,Leather,Material,Material
+59,61,Backpack,Type,Type
+60,61,Bag,Type,Type
+61,71,Givenchy,Brand,Brand
+62,71,Mini,Size,Size
+63,71,Pandora,Model,Model
+64,71,Shoulder,Type,Type
+65,71,Bag,Type,Type
+66,71,Calfskin Leather,Material,Material
+67,71,Green,Color,Color
+68,81,Louis Vuitton,Brand,Brand
+69,81,Damier,Product Line,Product Line
+70,81,Ebene,Color,Color
+71,81,Canvas,Fabric Type,Fabric Type
+72,81,GM,Model,Model
+73,81,Tote,Type,Type
+74,81,Shopper,Type,Type
+75,81,Handbag,Type,Type
+76,81,N41357,MPN,MPN
+77,91,GUCCI,Brand,Brand
+78,91,HORSEBIT,Accents,Accents
+79,91,HANDBAG,Type,Type
+80,101,Natural Leather,Material,Material
+81,101,Bag,Type,Type
+82,101,Messenger,Type,Type
+83,101,Handbag,Type,Type
+84,101,Man Women,Department,Department
+85,101,Retro,Style,Style
+86,101,Brown,Color,Color
+87,111,LOUIS VUITTON,Brand,Brand
+88,111,Leather,Material,Material
+89,111,Vachetta,Material,Material
+90,111,Keepall,Product Line,Product Line
+91,111,Bandolier,Model,Style
+92,111,Shoulder Strap,Handle Style,Handle Style
+93,121,Louis Vuitton,Brand,Brand
+94,121,Blue,Color,Color
+95,121,Poker,Theme,Theme
+96,121,Game On Neverfull,Model,
+97,121,Pochette,Product Line,Product Line
+98,121,Wristlet,Handle Style,Handle Style
+99,121,Clutch,Type,Type
+100,131,Louis Vuitton,Brand,Brand
+101,131,Graceful MM,Model,Model
+102,131,Hobo,Type,Type
+103,131,Handbag,Type,Type
+104,131,Damier,Product Line,Product Line
+105,131,Ebene,Color,Color
+106,131,Gold-color,Color,Color
+107,131,N44045,MPN,MPN
+108,141,Louis Vuitton,Brand,Brand
+109,141,LV,Brand,Brand
+110,141,Tote,Type,Type
+111,141,Bag,Type,Type
+112,141,Neverfull MM,Model,Model
+113,141,Damier,Product Line,Product Line
+114,141,Damier,Product Line,Product Line
+115,141,Browns,Color,Color
+116,141,Damier,Product Line,Product Line
+117,141,Damier,Product Line,Product Line
+118,151,Chanel,Brand,Brand
+119,151,21A,Model,Model
+120,151,Red,Color,Color
+121,151,Pink,Color,Color
+122,151,Camellia,Pattern,Pattern
+123,151,Quilted,Accents,Accents
+124,151,Velvet,Material,Material
+125,151,Mini,Size,Size
+126,151,Flap,Type,Type
+127,151,Bag,Type,Type
+128,161,Metal,Hardware Material,Material
+129,161,Leather,Material,
+130,161,Shoulder,Type,
+131,161,Bag,Type,
+132,161,Strap,Handle Style,
+133,161,Purse,Type,Type
+134,161,Handbag,Type,Type
+135,171,BALENCIAGA,Brand,Brand
+136,171,Everyday,Occasion,Occasion
+137,171,Tote,Type,Type
+138,171,Black,Color,Color
+139,171,Leather,Material,Material
+140,171,Womens,Department,Department
+141,171,Handbag,Type,Type
+142,181,LOUIS VUITTON,Brand,Brand
+143,181,Sac Depaule,Model,Model
+144,181,M80155,MPN,MPN
+145,181,Noir,Color,Color
+146,181,Cuir,Color,Material
+147,181,Black,Color,Color
+148,181,Epi,Material,Material
+149,191,Molshine,Brand,No Tag
+150,191,Rhinestone,Accents,Accents
+151,191,Handbag,Type,Type
+152,191,Clutch,Type,Type
+153,191,Purse,Type,Type
+154,191,Women Girl,Department,Department
+155,201,Louis Vuitton,Brand,Brand
+156,201,Outdoor,Occasion,Occasion
+157,201,Messenger,Type,Type
+158,201,Taigaram,Model,Model
+159,211,GUCCI,Brand,Brand
+160,211,Logo,Accents,Accents
+161,211,GG,Pattern,Pattern
+162,211,Hand,Type,Type
+163,211,Tote,Type,Type
+164,211,Bag,Type,Type
+165,211,Canvas,Fabric Type,Fabric Type
+166,211,Leather,Material,Material
+167,211,Black,Color,Color
+168,211,Gold,Color,Color
+169,211,Italy,Country/Region of Manufacture,Country/Region of Manufacture
+170,211,30SD226,MPN,MPN
+171,221,CHRISTIAN DIOR,Brand,Brand
+172,221,LADY,Department,Department
+173,221,TWEED,Fabric Type,Fabric Type
+174,221,LARGE,Size,Size
+175,221,HANDBAG,Type,Type
+176,231,Travelon,Brand,Brand
+177,231,Anti-Theft,Features,Features
+178,231,Concealed Carry,Pocket Type,Pocket Type
+179,231,Hobo,Type,Type
+180,231,Bag,Type,Type
+181,231,Black,Color,Color
+182,241,LOUIS VUITTON,Brand,Brand
+183,241,Giant,Size,Size
+184,241,Monogram,Pattern,Pattern
+185,241,Neverfull MM,Model,Model
+186,241,Khaki,Color,Color
+187,241,Green,Color,Color
+188,241,Beige,Color,Color
+189,251,LOUIS VUITTON,Brand,Brand
+190,251,Reade PM,Model,Model
+191,251,M91335,MPN,MPN
+192,251,Indigo,Color,Color
+193,251,Monogram,Pattern,Pattern
+194,251,Vernis,Product Line,Product Line
+195,251,MI1014,MPN,No Tag
+196,251,Womens,Department,Department
+197,251,Handbag,Type,Type
+198,261,BALENCIAGA,Brand,Brand
+199,261,Mini,Size,Size
+200,261,Neo,Model,Model
+201,261,Classic,Model,Model
+202,261,City,Product Line,Product Line
+203,261,Croc,Pattern,Pattern
+204,261,Embossed,Accents,Accents
+205,261,Leather,Material,Material
+206,261,Top Handle,Handle Style,Handle Style
+207,261,Bag,Type,Type
+208,271,Women,Department,Department
+209,271,Luxury,Theme,Theme
+210,271,Jelly,Material,Material
+211,271,Bag,Type,Type
+212,271,Polishing,Features,Fabric Type
+213,271,Leather,Material,Material
+214,271,Shoulder,Type,Type
+215,271,Handbag,Type,Type
+216,271,Crossbody,Type,Type
+217,271,Tote,Type,Type
+218,271,Shell,Pattern,Color
+219,281,JIL SANDER,Brand,Brand
+220,281,drawstring,Closure,Closure
+221,281,bag,Type,Type
+222,281,bag,Type,Type
+223,281,crossbody,Type,Type
+224,281,reversible,Features,Features
+225,281,shoulder,Type,Type
+226,281,bag,Type,Type
+227,281,bag,Type,Type
+228,291,Louis Vuitton,Brand,Brand
+229,291,Marelle Sac a Dos,Model,Model
+230,291,Backpack,Type,Type
+231,291,Monogram,Pattern,Pattern
+232,291,Canvas,Fabric Type,Material
+233,301,Ladies Womens,Department,Department
+234,301,Stud,Accents,Accents
+235,301,Handbag,Type,Type
+236,301,Crossover body,Handle Style,
+237,301,bag,Type,
+238,301,Satchel,Type,Type
+239,301,Messenger,Type,Type
+240,301,Shoulder,Type,Type
+241,311,MICHAEL KORS,Brand,Brand
+242,311,SIGNATURE,Pattern,Pattern
+243,311,GRAYSON,Model,Model
+244,311,WHITE,Color,Color
+245,311,NAVY,Color,Color
+246,311,CHAIN,Handle/Strap Material,Handle/Strap Material
+247,311,SATCHEL,Type,Type
+248,311,HANDBAG,Type,Type
+249,321,Express,Brand,Brand
+250,321,Women 's,Department,Department
+251,321,Turnlock,Closure,Closure
+252,321,Crossbody,Type,Type
+253,321,Messenger,Type,Type
+254,321,Bag,Type,Type
+255,321,Gray,Color,Color
+256,331,Louis Vuitton,Brand,Brand
+257,331,Black,Color,Color
+258,331,Epi,Material,Material
+259,331,Arche,Model,Model
+260,331,Shoulder,Type,Type
+261,331,Bag,Type,Type
+262,331,M52572,MPN,MPN
+263,341,Louis Vuitton,Brand,Brand
+264,341,Saint Jacques,Model,Model
+265,341,Handbag,Type,Type
+266,341,Epi Leather,Material,Material
+267,341,GM,Model,Model
+268,351,Large,Size,Size
+269,351,Nylon,Material,Material
+270,351,Tote,Type,Type
+271,351,Water Resistant,Features,Features
+272,351,Top Zip,Closure,Closure
+273,351,Shoulder,Type,Type
+274,351,Bag,Type,Type
+275,351,Handbag,Type,Type
+276,361,GUCCI,Brand,Brand
+277,361,Logo,Accents,Accents
+278,361,Bamboo,Product Line,Product Line
+279,361,Hand,Type,Type
+280,361,Tote,Type,Type
+281,361,Bag,Type,Type
+282,361,Leather,Material,Material
+283,361,Brown,Color,Color
+284,361,Gold-Plated,Hardware Material,Hardware Material
+285,361,Italy,Country/Region of Manufacture,Country/Region of Manufacture
+286,361,01MQ835,MPN,MPN
+287,371,Anello,Brand,Brand
+288,371,Japan,Country/Region of Manufacture,Country/Region of Manufacture
+289,371,Small,Size,Size
+290,371,2way,Features,Features
+291,371,Shoulder,Type,Type
+292,371,Bag,Type,Type
+293,371,Carry Case,Type,Type
+294,371,Navy,Color,Color
+295,371,AT-H0851,MPN,MPN
+296,381,Gucci,Brand,Brand
+297,381,Bag Clutch,Type,Type
+298,381,GG,Brand,Brand
+299,381,CANVAS,Fabric Type,Fabric Type
+300,381,LEATHER,Material,Material
+301,381,NAVY,Color,Color
+302,381,GOLD,Color,Color
+303,391,louis vuittons,Brand,Brand
+304,391,handbags,Type,Type
+305,401,Vera Bradley,Brand,Brand
+306,401,Triple Zip,Closure,Closure
+307,401,Hipster,Style,Model
+308,401,Crossbody,Type,Type
+309,401,Bag,Type,Type
+310,401,Purse,Type,Type
+311,401,Superbloom,Color,Color
+312,401,Pink,Color,Color
+313,411,Gucci,Brand,Brand
+314,411,Zip,Closure,
+315,411,Messenger,Type,Type
+316,411,Guccissima,Product Line,Product Line
+317,411,Leather,Material,Material
+318,411,Medium,Size,Size
+319,421,Lady,Department,Department
+320,421,bag,Type,Type
+321,421,bag,Type,Type
+322,421,HandBag,Type,Type
+323,421,pink,Color,Color
+324,421,Blush,Color,Color
+325,421,bag,Type,Type
+326,421,bag,Type,Type
+327,421,women,Department,Department
+328,421,handbag,Type,Type
+329,421,LEATHER,Material,Material
+330,421,HANDBAG,Type,Type
+331,431,WOMENS GIRLS,Department,Department
+332,431,JANSPORT,Brand,Brand
+333,431,SUPERBREAK,Model,Model
+334,431,NAVY,Color,Color
+335,431,BLUE,Color,Color
+336,431,BACKPACK,Type,Type
+337,431,SCHOOL,Occasion,Occasion
+338,431,BAG,Type,Type
+339,441,Vera Bradley,Brand,Brand
+340,441,Kensington,Model,Model
+341,441,Maggie,Model,Product Line
+342,441,Handbag,Type,Type
+343,441,Purse,Type,Type
+344,441,floral,Pattern,
+345,441,paisley,Pattern,
+346,451,Louis Vuitton,Brand,Brand
+347,451,My Lockme BB,Model,Model
+348,451,Light,Color,Color
+349,451,Blue,Color,Color
+350,451,Leather,Material,Material
+351,451,Chain,Handle/Strap Material,Handle/Strap Material
+352,451,Bag,Type,Type
+353,461,Lady,Department,Department
+354,461,Braid,Fabric Type,Fabric Type
+355,461,Shopping Tote,Type,Type
+356,461,Quilted,Accents,Accents
+357,461,Distressed,Fabric Type,Fabric Type
+358,461,Lambskin,Material,Material
+359,461,Medium,Size,Size
+360,471,Shiraleah,Brand,Brand
+361,471,Womens,Department,Department
+362,471,Purse,Type,Type
+363,471,Geometric,Pattern,Pattern
+364,471,Teal,Color,Color
+365,471,Taupe,Color,Color
+366,471,Brown,Color,Color
+367,471,Handbag,Type,Type
+368,471,Velvet,Material,Material
+369,471,Flower,Pattern,Pattern
+370,481,CHANEL,Brand,Brand
+371,481,Matelasse,Pattern,Pattern
+372,481,Double Flap,Type,Type
+373,481,Chain,Handle/Strap Material,Handle/Strap Material
+374,481,Shoulder,Type,Type
+375,481,Bag,Type,Type
+376,481,Black,Color,Color
+377,481,Leather,Material,Material
+378,491,LoZoDo,Brand,Brand
+379,491,Women,Department,Department
+380,491,Top Handle,Handle Style,Handle Style
+381,491,Satchel,Type,Type
+382,491,Handbags,Type,Type
+383,491,Shoulder,Type,Type
+384,491,Bag,Type,Type
+385,491,Tote,Type,Type
+386,491,Purse,Type,Type
+387,501,Gucci,Brand,Brand
+388,501,Dionysus,Model,Model
+389,501,Bag,Type,Type
+390,501,Leather,Material,Material
+391,501,Small,Size,Size
+392,511,Louis Vuitton,Brand,Brand
+393,511,Idylle Ballade PM,Model,Model
+394,511,Leather,Material,Material
+395,511,Handbag,Type,Type
+396,511,Monogram,Pattern,Pattern
+397,511,Logo,Accents,Accents
+398,511,Purse,Type,Type
+399,521,PRADA,Brand,Brand
+400,521,BN1877,MPN,MPN
+401,521,Canapa,Model,Model
+402,521,Hand Bag,Type,Type
+403,521,Tote,Type,Type
+404,521,Bag,Type,Type
+405,521,Cotton,Material,Material
+406,521,Canvas,Fabric Type,Fabric Type
+407,521,pink,Color,Color
+408,531,FENDI,Brand,Brand
+409,531,Mamma,Product Line,Product Line
+410,531,Baguette,Type,Type
+411,531,Shoulder,Type,Type
+412,531,Bag,Type,Type
+413,531,Kinit,Product Line,Fabric Type
+414,531,Leather,Material,Material
+415,531,Ivory,Color,Color
+416,541,LOUIS VUITTON,Brand,Brand
+417,541,Chantilly PM,Model,Model
+418,541,Monogram,Pattern,Pattern
+419,541,Canvas,Fabric Type,Fabric Type
+420,541,Shoulder,Type,Type
+421,541,Bag,Type,Type
+422,541,Purse,Type,Type
+423,551,LOUIS VUITTON,Brand,Brand
+424,551,MONTAIGNE MM DUNE,Model,
+425,551,BEIGE,Color,Color
+426,551,MONOGRAM,Pattern,Pattern
+427,551,EMPREINTE,Model,Accents
+428,551,BAG,Type,Type
+429,551,M41152,MPN,MPN
+430,561,Michael Kors,Brand,Brand
+431,561,Rose,Color,Model
+432,561,Medium,Size,Size
+433,561,Shoulder,Type,Type
+434,561,Flap,Type,Type
+435,561,Chain,Handle/Strap Material,Handle/Strap Material
+436,561,Bag,Type,Type
+437,561,White,Color,Color
+438,561,MK,Brand,Brand
+439,561,Pearl,Color,Color
+440,561,Grey,Color,Color
+441,561,Crossbody,Type,Type
+442,571,GUCCI,Brand,Brand
+443,571,Bamboo,Product Line,Product Line
+444,571,Handbag,Type,Type
+445,571,Black,Color,Color
+446,571,Leather,Material,Material
+447,571,:30 cm,"Measurement, dimension","Measurement, dimension"
+448,571,11.8 in,"Measurement, dimension","Measurement, dimension"
+449,571,GG,Brand,Brand
+450,581,ICONIC COLLECTOR 'S,Brand,
+451,581,40cm,"Measurement, dimension","Measurement, dimension"
+452,581,Matte,Color,Accents
+453,581,BRONZE,Color,Color
+454,581,CROCODILE,Pattern,Pattern
+455,581,HERMES,Product Line,Brand
+456,581,Birkin,Product Line,Product Line
+457,581,Bag,Type,Type
+458,591,LOUIS VUITTON,Brand,Brand
+459,591,Monogram,Pattern,Pattern
+460,591,Cabas Piano,Model,Model
+461,591,Tote,Type,Type
+462,591,Bag,Type,Type
+463,591,M51148,MPN,MPN
+464,591,LV,Brand,Brand
+465,601,TRAVELON,Brand,Brand
+466,601,GREEN,Color,Color
+467,601,CROSS BODY,Type,Type
+468,601,ANTI-THEFT,Features,Features
+469,601,BAG,Type,Type
+470,611,Coach,Brand,Brand
+471,611,Mickey Mouse Disney,Character,
+472,611,Women 's,Department,Department
+473,611,Wallet,Type,Type
+474,611,F58939,MPN,MPN
+475,621,Vera Bradley Disney,Brand,Brand
+476,621,Park Where 's Mickey,Character Family,
+477,621,green,Color,Color
+478,621,blue,Color,Color
+479,621,Large,Size,Size
+480,621,DUFFEL,Type,Type
+481,621,TRAVEL,Occasion,Occasion
+482,621,Bag,Type,Type
+483,631,Michael Kors,Brand,Brand
+484,631,Women 's,Department,Department
+485,631,Small,Size,Size
+486,631,Satchel,Type,Type
+487,631,Ballet,Color,Color
+488,631,Camille,Pattern,Color
+489,631,Pebbled,Pattern,Pattern
+490,631,Leather,Material,Material
+491,631,30H5SCAS1L-857,MPN,MPN
+492,641,Boston,Type,Type
+493,641,leather,Material,Material
+494,641,handbag,Type,Type
+495,641,women,Department,Department
+496,651,Kate Spade,Brand,Brand
+497,651,Cara,Model,Model
+498,651,Large,Size,Size
+499,651,Top Zip,Closure,Closure
+500,651,Tote,Type,Type
+501,651,Leopard,Pattern,
+502,651,Animal,Pattern,
+503,651,Black,Color,Color
+504,651,Tan,Color,Color
+505,661,GUCCI,Brand,Brand
+506,661,Soho,Product Line,Model
+507,661,Tassel,Accents,Accents
+508,661,Flap,Type,Type
+509,661,GG,Brand,Brand
+510,661,Shoulder,Type,Type
+511,661,Bag,Type,Type
+512,661,Crossbody,Type,Type
+513,661,Black,Color,Color
+514,661,Leather,Material,Material
+515,671,CHLOE VANESSA,Brand,
+516,671,Large,Size,Size
+517,671,Black,Color,Color
+518,671,Leather,Material,Material
+519,671,Handbag,Type,Type
+520,681,Mary Frances,Brand,Brand
+521,681,True Beauty Disney,Character Family,
+522,681,Flower Lotus,Pattern,
+523,681,Floral,Pattern,
+524,681,Beaded,Accents,Accents
+525,681,Handbag Bag,Type,Type
+526,691,MICHAEL KORS,Brand,Brand
+527,691,RAYNE,Model,Model
+528,691,MEDIUM,Size,Size
+529,691,EAST WEST,Product Line,Model
+530,691,SATCHEL,Type,Type
+531,691,SHOULDER,Type,Type
+532,691,LEATHER,Material,Material
+533,691,BAG,Type,Type
+534,701,Alligator,Material,Material
+535,701,Brown,Color,Color
+536,701,Handbag,Type,Type
+537,701,Purse,Type,Type
+538,701,Argentina,Country/Region of Manufacture,Country/Region of Manufacture
+539,711,Indian,Theme,Style
+540,711,Boho,Style,Style
+541,711,Handbag,Type,Type
+542,711,Green,Color,Color
+543,711,Elephant,Pattern,Pattern
+544,711,Women 's,Department,Department
+545,711,Animal,Pattern,Pattern
+546,711,Pink,Color,Color
+547,721,FOSSIL KEY PER,Brand,
+548,721,COATED CANVAS,Fabric Type,Fabric Type
+549,721,BAG,Type,Type
+550,721,MESSENGER,Type,Type
+551,721,PURSE,Type,Type
+552,731,GOYARD,Brand,Brand
+553,731,St Louis GM,Model,Model
+554,731,Pouch,Type,Type
+555,731,Yellow,Color,Color
+556,731,Large,Size,Size
+557,731,Monogram,Pattern,Pattern
+558,731,Tote,Type,Type
+559,731,Bag,Type,Type
+560,741,COACH,Brand,Brand
+561,741,F72664,MPN,MPN
+562,741,Small,Size,Size
+563,741,Zoe,Model,Model
+564,741,Carryall,Type,Type
+565,741,Lizard,Pattern,Pattern
+566,741,Leather,Material,Material
+567,741,Satchel,Type,Type
+568,741,Handbag,Type,Type
+569,741,SV,Color,No Tag
+570,741,Chalk,Color,Color
+571,751,-MICHAEL KORS,Brand,
+572,751,MD MOXLEY,Model,Model
+573,751,LUGGAGE,Type,Type
+574,751,BROWN,Color,Color
+575,751,LEATHER,Material,Material
+576,751,TOTE,Type,Type
+577,751,PURSE,Type,Type
+578,751,SHOULDER+HAND BAG,Type,
+579,761,Fossil,Brand,Brand
+580,761,Black,Color,Color
+581,761,Leather,Material,Material
+582,761,Side Pockets,Pocket Type,Pocket Type
+583,761,Upper,Features,
+584,761,Zipper,Closure,
+585,761,Satchel,Type,Type
+586,761,Bag,Type,Type
+587,771,CASUAL EVERYDAY,Occasion,Occasion
+588,771,MACO DUAL,Model,
+589,771,SHOULDER,Type,Type
+590,771,TOTE,Type,Type
+591,771,BAG,Type,Type
+592,771,PREMIUM,Color,No Tag
+593,771,CREASE,Color,Pattern
+594,771,COWHIDE LEATHER,Material,Material
+595,781,Express,Brand,Brand
+596,781,Nude,Color,Color
+597,781,Studded,Accents,Accents
+598,781,Medium Sized,Size,
+599,781,Crossbody,Type,Type
+600,781,Bag,Type,Type
+601,781,Purse,Type,Type
+602,791,LOUIS VUITTON,Brand,Brand
+603,791,LV,Brand,Brand
+604,791,Logo,Accents,Accents
+605,791,Deauville,Model,Model
+606,791,Hand Bag,Type,Type
+607,791,Monogram,Pattern,Pattern
+608,791,Leather,Material,Material
+609,791,Brown,Color,Color
+610,791,M47270,MPN,
+611,801,CHANEL,Brand,Brand
+612,801,Cambon,Product Line,
+613,801,Large,Size,Size
+614,801,Tote,Type,Type
+615,801,Black,Color,Color
+616,801,Lambskin Patent Leather,Material,Material
+617,801,Womens,Department,Department
+618,811,FOSSIL,Brand,Brand
+619,811,Black,Color,Color
+620,811,Pebbled,Pattern,Pattern
+621,811,Leather,Material,Material
+622,811,Shoulder,Type,Type
+623,811,Bag,Type,Type
+624,811,Brown,Color,Color
+625,811,Handles,Handle Style,Handle Style
+626,821,Snakeskin,Material,Material
+627,821,Bag,Type,Type
+628,821,Bag,Type,Type
+629,821,Purse,Type,Type
+630,821,Tassel,Accents,Accents
+631,821,Bag,Type,Type
+632,821,Bag,Type,Type
+633,821,Cobra Snake,Pattern,Material
+634,821,Black,Color,Color
+635,821,7x13x1,"Measurement, dimension",
+636,831,Furla,Brand,Brand
+637,831,Ginerva,Model,Model
+638,831,Medium,Size,Size
+639,831,Maple,Color,Color
+640,831,Leather,Material,Material
+641,831,Hobo,Type,Type
+642,831,Shoulder,Type,Type
+643,831,Bag,Type,Type
+644,841,Michael Kors,Brand,Brand
+645,841,Jet set,Product Line,Product Line
+646,841,Large,Size,Size
+647,841,Messenger,Type,Type
+648,841,Bag,Type,Type
+649,841,Vanilla,Color,Color
+650,841,MK,Brand,Brand
+651,851,Hello Kitty,Character,Character Family
+652,851,Girls,Department,Department
+653,851,Patent Leather,Material,Material
+654,851,Hand,Type,Type
+655,851,Shoulder,Type,Type
+656,851,Travel Gym,Occasion,Occasion
+657,851,Bag,Type,Type
+658,851,Handbag,Type,Type
+659,851,Dark,Color,Color
+660,851,Pink,Color,Color
+661,861,Tote,Type,Type
+662,861,Bag,Type,Type
+663,871,Gucci,Brand,Brand
+664,871,GG,Brand,Brand
+665,871,Web,Product Line,Product Line
+666,871,Shoulder,Type,Type
+667,871,Handbag,Type,Type
+668,871,Pocketbook,Type,Type
+669,871,Purse,Type,Type
+670,871,Brown,Color,Color
+671,871,Leather,Material,Material
+672,881,LOUIS VUITTON,Brand,Brand
+673,881,Speedy 25,Model,Model
+674,881,Travel,Occasion,Occasion
+675,881,Hand Bag,Type,Type
+676,881,Monogram,Pattern,Pattern
+677,881,Leather,Material,Material
+678,881,Brown,Color,Color
+679,881,M41528,MPN,MPN
+680,891,FALOR,Brand,Brand
+681,891,F7349ROM,MPN,MPN
+682,891,X Large,Size,Size
+683,891,Black,Color,Color
+684,891,Woven,Fabric Type,Fabric Type
+685,891,Leather,Material,Material
+686,891,Tote,Type,Type
+687,891,Shoulder,Type,Type
+688,891,Bag,Type,Type
+689,891,falorni,Theme,No Tag
+690,901,CHANEL,Brand,Brand
+691,901,CC,Brand,Brand
+692,901,Drawstring,Closure,Closure
+693,901,Chain,Handle/Strap Material,Handle/Strap Material
+694,901,Shoulder,Type,Type
+695,901,Bag,Type,Type
+696,901,Leather,Material,Material
+697,901,Black,Color,Color
+698,901,396LA879,MPN,No Tag
+699,911,SUSAN BENNIS,Brand,
+700,911,WARREN EDWARDS,Model,
+701,911,Italy,Country/Region of Manufacture,Country/Region of Manufacture
+702,911,Gold,Color,Color
+703,911,Grommets,Accents,Accents
+704,911,Tortoise,Color,Style
+705,911,Bag,Type,Type
+706,921,Louis Vuitton,Brand,Brand
+707,921,Dauphine,Model,Model
+708,921,Shoulder,Type,Type
+709,921,Bag,Type,Type
+710,921,MM,Model,Model
+711,921,Brown,Color,Color
+712,921,Canvas,Fabric Type,Fabric Type
+713,931,ZARA,Brand,Brand
+714,931,WHITE,Color,Color
+715,931,FUR,Material,Material
+716,931,CLUTCH,Type,Type
+717,931,HANDBAG,Type,Type
+718,931,SHOULDER,Type,Type
+719,931,BAG,Type,Type
+720,941,La Calenita,Model,Brand
+721,941,Round,Style,Style
+722,941,Straw,Material,Material
+723,941,Crossbody,Type,Type
+724,941,Spanish,Country/Region of Manufacture,
+725,941,Mexican,Country/Region of Manufacture,
+726,941,Bag,Type,Type
+727,941,Columbia,Brand,Country/Region of Manufacture
+728,951,LOUIS VUITTON,Brand,Brand
+729,951,Amarante,Color,Color
+730,951,Monogram,Pattern,Pattern
+731,951,Vernis,Product Line,Product Line
+732,951,Leather,Material,Material
+733,951,Brea GM,Model,Model
+734,951,Shoulder,Type,Type
+735,951,Bag,Type,Type
+736,961,Disney,Brand,Brand
+737,961,Dooney & Bourke,Brand,Brand
+738,961,DVC,Brand,
+739,961,20th Vacation Club,Model,
+740,961,Shopper,Type,Type
+741,961,Large,Size,Size
+742,961,Tote,Type,Type
+743,961,Bag,Type,Type
+744,971,Louis Vuitton,Brand,Brand
+745,971,Damier,Product Line,Product Line
+746,971,Neverfull PM,Model,Model
+747,971,Tote,Type,Type
+748,971,Bag,Type,Type
+749,971,N51109,MPN,MPN
+750,971,LV,Brand,Brand
+751,981,Women 's,Department,Department
+752,981,Lina,Brand,Model
+753,981,Green,Color,Color
+754,981,Floral,Pattern,Pattern
+755,981,Mini,Size,Size
+756,981,Shoulder,Type,Type
+757,981,Bag,Type,Type
+758,991,Kipling,Brand,Brand
+759,991,Women 's,Department,Department
+760,991,Keiko,Model,Model
+761,991,Printed,Features,Features
+762,991,Crossbody,Type,Type
+763,991,Mini,Size,Size
+764,991,Bag,Type,Type
+765,991,Pockets,Features,Features
+766,991,Keychain,Accents,
+767,1001,Kate Spade,Brand,Brand
+768,1001,Staci,Model,Model
+769,1001,Medium,Size,Size
+770,1001,Satchel,Type,Type
+771,1001,Leather,Material,Material
+772,1001,Warm,Color,Color
+773,1001,Beige,Color,Color
+774,1011,HARVEYS Disney,Brand,Brand
+775,1011,Haunted Mansion,Character Family,Character Family
+776,1011,Vertical,Style,Style
+777,1011,Medium,Size,Size
+778,1011,Streamline,Style,Style
+779,1011,Tote,Type,Type
+780,1021,❤,Brand,No Tag
+781,1021,❤,Brand,No Tag
+782,1021,BRAHMIN,Brand,Brand
+783,1021,SMALL,Size,Size
+784,1021,NORAH,Model,Model
+785,1021,BLACK,Color,Color
+786,1021,CORSICA,Product Line,Color
+787,1021,WHITE,Color,Color
+788,1021,STRIPE,Pattern,Pattern
+789,1021,LEATHER,Material,Material
+790,1021,CROC,Pattern,Pattern
+791,1021,CRANE,Pattern,No Tag
+792,1021,❤,Brand,No Tag
+793,1021,❤,Brand,No Tag
+794,1031,CHANEL,Brand,Brand
+795,1031,Black,Color,Color
+796,1031,Quilted,Features,Accents
+797,1031,Calfskin,Material,Material
+798,1031,Logo,Accents,Accents
+799,1031,CHAIN,Handle/Strap Material,Handle/Strap Material
+800,1031,Hobo,Type,Type
+801,1031,Foldover,Features,Features
+802,1031,Shoulder,Type,Type
+803,1031,Bag,Type,Type
+804,1041,Bottega Veneta,Brand,Brand
+805,1041,Convertible,Features,Features
+806,1041,Flat,Style,Style
+807,1041,Zip,Closure,Closure
+808,1041,Tote,Type,Type
+809,1041,Intrecciato,Pattern,Pattern
+810,1041,Nappa,Material,Material
+811,1041,Large,Size,Size
+812,1051,Louis Vuitton,Brand,Brand
+813,1051,Damier,Product Line,Product Line
+814,1051,Azur,Color,Color
+815,1051,Siracusa MM,Model,Model
+816,1051,Shoulder,Type,Type
+817,1051,Bag,Type,Type
+818,1051,N41112,MPN,MPN
+819,1061,Fendi,Brand,Brand
+820,1061,20AW,Model,Model
+821,1061,Canvas,Fabric Type,Fabric Type
+822,1061,Shopper,Type,Type
+823,1061,Tote,Type,Type
+824,1061,Bag,Type,Type
+825,1061,8BH380,MPN,MPN
+826,1061,Ivory,Color,Color
+827,1071,Louis Vuitton,Brand,Brand
+828,1071,Monogram,Pattern,Pattern
+829,1071,Vernis,Product Line,Product Line
+830,1071,Rayures Alma BB,Model,Model
+831,1071,Handbag,Type,Type
+832,1071,Shoulder,Type,Type
+833,1071,Bag,Type,Type
+834,1081,BEACH,Brand,Occasion
+835,1081,BASIC,Model,No Tag
+836,1081,CANVAS,Fabric Type,Fabric Type
+837,1081,TOTE,Type,Type
+838,1081,ROPE,Handle/Strap Material,Handle/Strap Material
+839,1081,HANDLE,Handle Style,Handle Style
+840,1081,BAG,Type,Type
+841,1091,CHANEL,Brand,Brand
+842,1091,2.55,Model,Model
+843,1091,Double Flap,Type,Type
+844,1091,Shoulder,Type,Type
+845,1091,Bag,Type,Type
+846,1091,Quilted,Accents,Accents
+847,1091,Leather,Material,Material
+848,1091,Beige,Color,Color
+849,1091,MEDIUM,Size,Size
+850,1101,Chanel,Brand,Brand
+851,1101,Classic,Model,Model
+852,1101,Flap,Type,Type
+853,1101,Quilted,Features,Features
+854,1101,Lambskin,Material,Material
+855,1101,Rectangular,Style,Style
+856,1101,Mini,Size,Size
+857,1101,Red,Color,Color
+858,1111,Judith Leiber,Brand,Brand
+859,1111,KARUNG,Material,
+860,1111,LIZARD,Pattern,
+861,1111,RED,Color,Color
+862,1111,CABOCHON,Color,
+863,1111,GEMSTONE,Color,
+864,1111,HANDBAG,Type,
+865,1111,Bag,Type,
+866,1111,Purse,Type,Type
+867,1111,CLUTCH,Type,Type
+868,1121,GUCCI,Brand,Brand
+869,1121,Bamboo,Product Line,Product Line
+870,1121,Bamboo,Product Line,Product Line
+871,1121,Black,Color,Color
+872,1121,Brown,Color,Color
+873,1121,Leather,Material,Material
+874,1121,Bamboo,Product Line,Product Line
+875,1121,Bamboo,Product Line,Product Line
+876,1121,Women,Department,Department
+877,1121,Handbag,Type,Type
+878,1131,VALENTINO GARAVANI,Brand,Brand
+879,1131,EXOTIC,Model,No Tag
+880,1131,CROCODILE,Pattern,Pattern
+881,1131,ALLIGATOR,Accents,Pattern
+882,1131,JOYLOCK,Closure,Closure
+883,1131,BAG,Type,Type
+884,1131,BLUE,Color,Color
+885,1141,Nixon,Brand,Brand
+886,1141,Womens,Department,Department
+887,1141,After Hours,Model,Model
+888,1141,Hand Bag,Type,Type
+889,1141,Grey,Color,Color
+890,1151,MARC,Product Line,Product Line
+891,1151,MARC JACOBS,Brand,Brand
+892,1151,Patent Leather,Material,Material
+893,1151,Bag,Type,Type
+894,1161,Dooney & Bourke,Brand,Brand
+895,1161,Pebble,Pattern,
+896,1161,Grain,Material,
+897,1161,Celeste,Model,Model
+898,1161,Satchel,Type,Type
+899,1171,Christian Dior,Brand,Brand
+900,1171,Trotter,Model,Model
+901,1171,Shoulder,Type,Type
+902,1171,Cross Body,Type,Type
+903,1171,Bag,Type,Type
+904,1171,Canvas,Fabric Type,Fabric Type
+905,1171,Blue,Color,Color
+906,1181,Burberrys Burberry London,Brand,Brand
+907,1181,check,Pattern,Pattern
+908,1181,Hand Bag,Type,Type
+909,1181,Tote,Type,Type
+910,1181,Bag,Type,Type
+911,1181,Leather,Material,Material
+912,1181,PVC,Material,Material
+913,1181,Brown,Color,Color
+914,1191,Tory Burch,Brand,Brand
+915,1191,Gemini,Model,Model
+916,1191,Link,Handle/Strap Material,Handle Style
+917,1191,Tote,Type,Type
+918,1191,Large XL,Size,Size
+919,1191,"16 ""","Measurement, dimension","Measurement, dimension"
+920,1191,Purse,Type,Type
+921,1191,Bag,Type,Type
+922,1201,Louis Vuitton,Brand,Brand
+923,1201,Vavin,Model,Model
+924,1201,Empreinte,Accents,Accents
+925,1201,Black,Color,Color
+926,1201,Monogram,Pattern,Pattern
+927,1201,Leather,Material,Material
+928,1201,Mini,Size,Size
+929,1201,Bag,Type,Type
+930,1211,womens,Department,Department
+931,1211,tote,Type,Type
+932,1211,bag,Type,Type
+933,1211,PU Leather,Material,Material
+934,1211,Brown,Color,Color
+935,1211,Polyurethane Leather,Material,Material
+936,1211,Vegan,Features,Features
+937,1221,3 In 1,Style,Features
+938,1221,Purses,Type,Type
+939,1221,Handbags,Type,Type
+940,1221,Shoulder,Type,Type
+941,1221,Crossbody,Type,Type
+942,1221,Bags,Type,Type
+943,1231,Harley-Davidson,Brand,Brand
+944,1231,Mini Me,Model,Model
+945,1231,Backpack,Type,Type
+946,1231,Rust,Color,Color
+947,1241,CHANEL,Brand,Brand
+948,1241,Classic,Model,Model
+949,1241,Single Flap,Type,Type
+950,1241,Small,Size,Size
+951,1241,Chain,Handle/Strap Material,Handle/Strap Material
+952,1241,Shoulder,Type,Type
+953,1241,Bag,Type,Type
+954,1241,BK,Product Line,No Tag
+955,1241,Lambskin,Material,Material
+956,1251,Kate spade,Brand,Brand
+957,1251,Ooh La La Poppy,Model,
+958,1251,Little,Size,
+959,1251,Wkru5526,MPN,MPN
+960,1251,Leather,Material,Material
+961,1251,Tote,Type,Type
+962,1261,Chanel,Brand,Brand
+963,1261,dark,Color,Color
+964,1261,red,Color,Color
+965,1261,Medium,Size,Size
+966,1261,Chevron,Pattern,Pattern
+967,1261,Le Boy,Product Line,
+968,1261,Bag,Type,Type
+969,1271,Longchamp,Brand,Brand
+970,1271,Le Pliage,Model,Model
+971,1271,Nylon,Material,Material
+972,1271,Tote,Type,Type
+973,1271,Handbag,Type,Type
+974,1271,Grey,Color,Color
+975,1271,Large,Size,Size
+976,1281,GUCCI,Brand,Brand
+977,1281,Satin,Material,Material
+978,1281,Crystal,Accents,Accents
+979,1281,MINI,Size,Size
+980,1281,SYLVIE,Model,Model
+981,1281,Web,Product Line,Product Line
+982,1281,Bag,Type,Type
+983,1281,3-Way,Features,Features
+984,1281,Top Handle,Handle Style,Handle Style
+985,1281,Shoulder,Type,Type
+986,1291,Disney Loungefly,Brand,Brand
+987,1291,Floral,Pattern,Pattern
+988,1291,Satchel,Type,Type
+989,1291,Shoulder,Type,Type
+990,1291,Bag,Type,Type
+991,1291,Crossbody,Type,Type
+992,1291,Wallet,Type,Type
+993,1301,BOTTEGA VENETA,Brand,Brand
+994,1301,INTRECCIATO,Pattern,Pattern
+995,1301,HOBO,Type,Type
+996,1301,SHOULDER,Type,Type
+997,1301,BAG,Type,Type
+998,1301,BROWN,Color,Color
+999,1311,Anime,Theme,Theme
+1000,1311,Backpack,Type,Type
+1001,1311,School,Occasion,Occasion
+1002,1311,Bag,Type,Type
+1003,1311,Spirited Away No Face,Model,
+1004,1311,Kawaii,Style,Style
+1005,1311,Harajuku,Theme,No Tag
+1006,1311,Pastel,Color,Color
+1007,1321,Chanel,Brand,Brand
+1008,1321,Purple,Color,Color
+1009,1321,Rabbit Fur,Material,
+1010,1321,Lapin,Model,
+1011,1321,CC Logo,Accents,Accents
+1012,1321,Chain,Handle/Strap Material,Handle/Strap Material
+1013,1321,Small,Size,Size
+1014,1321,Zipper,Closure,Closure
+1015,1321,Shoulder,Type,Type
+1016,1321,Bag,Type,Type
+1017,1331,Gucci,Brand,Brand
+1018,1331,Shoulder,Type,Type
+1019,1331,Bag,Type,Type
+1020,1331,Brown,Color,Color
+1021,1331,PVC,Material,Material
+1022,1341,Make It Happen,Brand,Theme
+1023,1341,Cotton,Material,Material
+1024,1341,Canvas,Fabric Type,Fabric Type
+1025,1341,Tote,Type,Type
+1026,1341,Bag,Type,Type
+1027,1351,DOONEY & BOURKE,Brand,Brand
+1028,1351,CLASSIC,Model,No Tag
+1029,1351,A6 Leather,Material,
+1030,1351,handbag,Type,Type
+1031,1351,purse,Type,Type
+1032,1351,satchel,Type,Type
+1033,1361,Hypergear,Brand,Obscure
+1034,1361,Kangaroo,Theme,Obscure
+1035,1361,Mini,Size,Obscure
+1036,1361,Purse,Type,Type
+1037,1371,Louis Vuitton,Brand,Brand
+1038,1371,Epi,Material,Material
+1039,1371,Saint Jacques,Model,Model
+1040,1371,Hand Bag,Type,Type
+1041,1371,Black,Color,Color
+1042,1371,M52272,MPN,MPN
+1043,1371,LV,Brand,Brand
+1044,1381,Gucci,Brand,Brand
+1045,1381,Belt,Type,Type
+1046,1381,Bag,Type,Type
+1047,1381,Fanny Pack,Type,Type
+1048,1381,GG,Brand,Brand
+1049,1381,Waist,Style,Style
+1050,1381,Brown,Color,Color
+1051,1381,Canvas,Fabric Type,Fabric Type
+1052,1381,Clutch,Type,Type
+1053,1381,Factory Sealed,Features,
+1054,1391,Michael Kors,Brand,Brand
+1055,1391,Crossbody,Type,Type
+1056,1391,Bag,Type,Type
+1057,1391,Ava,Model,Model
+1058,1391,Mini,Size,Size
+1059,1391,Saffiano Leather,Material,Material
+1060,1391,Misty,Color,Color
+1061,1391,Rose,Color,Color
+1062,1391,Red,Color,Color
+1063,1401,GENUINE BURBERRY,Brand,
+1064,1401,CARRYALL,Type,Type
+1065,1401,HANDBAG,Type,Type
+1066,1401,TOTE,Type,Type
+1067,1401,PURSE,Type,Type
+1068,1401,MEDIUM,Size,Size
+1069,1401,BAG,Type,Type
+1070,1411,Vera Bradley,Brand,Brand
+1071,1411,FAR OUT FLORAL,Pattern,Pattern
+1072,1411,Ditty,Model,No Tag
+1073,1411,Bag,Type,Type
+1074,1421,Louis Vuitton,Brand,Brand
+1075,1421,Damier,Product Line,Product Line
+1076,1421,Ebene,Color,Color
+1077,1421,Pochette,Product Line,Product Line
+1078,1421,Cosmetique,Style,Theme
+1079,1421,Cosmetic,Type,Type
+1080,1421,Bag,Type,Type
+1081,1421,N47516,MPN,
+1082,1431,Gucci,Brand,Brand
+1083,1431,Soho,Model,Model
+1084,1431,Metallic,Color,Color
+1085,1431,Light,Color,Color
+1086,1431,Gray,Color,Color
+1087,1431,Leather,Material,Material
+1088,1431,Charm,Accents,Accents
+1089,1431,Large,Size,Size
+1090,1431,Tote,Type,Type
+1091,1431,Chain,Handle/Strap Material,Handle/Strap Material
+1092,1431,Shoulder,Type,Type
+1093,1431,Bag,Type,Type
+1094,1441,ALICE AND OLIVIA,Brand,Brand
+1095,1441,TOTE,Type,Type
+1096,1441,BAG,Type,Type
+1097,1441,WOMEN,Department,Department
+1098,1451,Chanel,Brand,Brand
+1099,1451,Black,Color,Color
+1100,1451,Lambskin,Material,Material
+1101,1451,Square,Type,Type
+1102,1451,Classic,Model,Model
+1103,1451,Mini,Size,Size
+1104,1451,Flap,Type,Type
+1105,1451,Bag,Type,Type
+1106,1451,24K,Hardware Material,Hardware Material
+1107,1461,Express,Brand,Brand
+1108,1461,Mini,Size,Size
+1109,1461,Leather,Material,Material
+1110,1461,Shoulder,Type,Type
+1111,1461,Bag,Type,Type
+1112,1461,Purse,Type,Type
+1113,1461,Red,Color,Color
+1114,1471,LOUIS VUITTON,Brand,Brand
+1115,1471,BEVERLY MM,Model,Model
+1116,1471,HAND BAG,Type,Type
+1117,1471,FL2067,MPN,MPN
+1118,1471,PURSE,Type,Type
+1119,1471,MONOGRAM,Pattern,Pattern
+1120,1471,CANVAS,Fabric Type,Fabric Type
+1121,1471,M40121,MPN,MPN
+1122,1481,GUCCI,Brand,Brand
+1123,1481,Lamb Skin,Material,Material
+1124,1481,Leather,Material,Material
+1125,1481,Black,Color,Color
+1126,1481,Tote,Type,Type
+1127,1481,Bag,Type,Type
+1128,1481,Bag,Type,Type
+1129,1481,Shoulder,Type,Type
+1130,1481,Bag,Type,Type
+1131,1481,Bag,Type,Type
+1132,1491,BOTTEGA VENETA,Brand,Brand
+1133,1491,Intrecciato,Pattern,Pattern
+1134,1491,Spinnaker,Model,Model
+1135,1491,Belt,Type,Type
+1136,1491,Bag Body,Type,
+1137,1491,Bag,Type,Type
+1138,1491,Bag,Type,Type
+1139,1501,MSGM MILANO,Brand,Brand
+1140,1501,Women 's,Department,Department
+1141,1501,Festival,Occasion,Occasion
+1142,1501,Coin Purse,Type,Type
+1143,1501,Shoulder,Type,Type
+1144,1501,Bag,Type,Type
+1145,1511,LOUIS VUITTON,Brand,Brand
+1146,1511,MONOGRAM,Pattern,Pattern
+1147,1511,PORTER CARTES,Model,Model
+1148,1511,CASE,Type,
+1149,1511,WALLET,Type,Type
+1150,1521,Chanel,Brand,Brand
+1151,1521,19,Model,Model
+1152,1521,WOC,Type,Type
+1153,1521,Pink,Color,Color
+1154,1521,Denim,Fabric Type,Fabric Type
+1155,1521,Fabric,Material,Material
+1156,1521,Leather,Material,Material
+1157,1521,Clutch,Type,Type
+1158,1521,Mini,Size,Size
+1159,1521,O-Bag,Type,Style
+1160,1531,Louis Vuitton,Brand,Brand
+1161,1531,Clery,Model,Model
+1162,1531,Black,Color,Color
+1163,1531,Epi Leather,Material,Material
+1164,1531,LV,Brand,Brand
+1165,1531,Logo,Accents,Accents
+1166,1531,Top Handle,Handle Style,Handle Style
+1167,1531,Clutch,Type,Type
+1168,1531,Shoulder,Type,Type
+1169,1531,Bag,Type,Type
+1170,1541,Tory Burch,Brand,Brand
+1171,1541,Thea,Model,Model
+1172,1541,Black,Color,Color
+1173,1541,Shoulder,Type,Type
+1174,1541,Bag,Type,Type
+1175,1541,Crossbody,Type,Type
+1176,1541,Purse,Type,Type
+1177,1541,BAG,Type,Type
+1178,1541,Includded,Accents,No Tag
+1179,1551,LOUIS VUITTON,Brand,Brand
+1180,1551,Mini,Size,Size
+1181,1551,Speedy,Model,Model
+1182,1551,Hand Bag,Type,Type
+1183,1551,Monogram,Pattern,Pattern
+1184,1551,Leather,Material,Material
+1185,1551,Brown,Color,Color
+1186,1551,France,Country/Region of Manufacture,Country/Region of Manufacture
+1187,1551,M41534,MPN,MPN
+1188,1561,Moschino Couture,Brand,
+1189,1561,Jeremy Scott,Brand,
+1190,1561,Padlock,Model,Closure
+1191,1561,Handbag,Type,Type
+1192,1561,Shoulder,Type,Type
+1193,1561,Bag,Type,Type
+1194,1571,LOUIS VUITTON,Brand,Brand
+1195,1571,ORSAY,Model,Model
+1196,1571,CLUCTH,Style,
+1197,1571,HAND BAG,Type,
+1198,1571,PURSE,Type,Type
+1199,1571,MONOGRAM,Pattern,Pattern
+1200,1571,CANVAS,Fabric Type,Fabric Type
+1201,1571,M51790,MPN,MPN
+1202,1581,Louis Vuitton,Brand,Brand
+1203,1581,Damier,Product Line,Product Line
+1204,1581,Recoleta,Model,Model
+1205,1581,Shoulder,Type,Type
+1206,1581,Bag,Type,Type
+1207,1591,Women 's,Department,Department
+1208,1591,PU Leather,Material,Material
+1209,1591,Handbag,Type,Type
+1210,1591,Crossbody,Type,Type
+1211,1591,Tote,Type,Type
+1212,1591,Embroidery,Accents,Accents
+1213,1591,Shoulder,Type,Type
+1214,1591,Lady 's,Department,Department
+1215,1591,Bag,Type,Type
+1216,1601,CHANEL,Brand,Brand
+1217,1601,Iridescent,Accents,Accents
+1218,1601,Lambskin,Material,Material
+1219,1601,Quilted,Features,Features
+1220,1601,Pearl,Accents,Color
+1221,1601,Wallet on Chain,Type,Type
+1222,1601,WOC,Type,Type
+1223,1601,Black,Color,Color
+1224,1611,Chanel,Brand,Brand
+1225,1611,Biarritz,Model,Model
+1226,1611,Shoulder,Type,Type
+1227,1611,Black,Color,Color
+1228,1611,Coated Canvas,Fabric Type,Fabric Type
+1229,1611,GM,Model,Model
+1230,1611,Tote,Type,Type
+1231,1611,Bag,Type,Type
+1232,1611,Pouch,Type,Type
+1233,1621,Louis Vuitton,Brand,Brand
+1234,1621,TINY,Model,Size
+1235,1621,BACKPACK,Type,Type
+1236,1621,M80738,MPN,MPN
+1237,1621,Monogram,Pattern,Pattern
+1238,1621,Empreinte,Accents,Accents
+1239,1621,Leather,Material,Material
+1240,1631,Michael Kors,Brand,Brand
+1241,1631,Selma,Model,Model
+1242,1631,Stud,Accents,Accents
+1243,1631,Medium,Size,Size
+1244,1631,Messenger,Type,Type
+1245,1631,Crossbody,Type,Type
+1246,1631,Leather,Material,Material
+1247,1631,Blush,Color,Color
+1248,1641,VERA BRADLEY,Brand,Brand
+1249,1641,Wristlet,Handle Style,Handle Style
+1250,1641,Wristlet,Handle Style,Handle Style
+1251,1641,Purse,Type,Type
+1252,1641,Wristlet,Handle Style,Handle Style
+1253,1641,Wristlet,Handle Style,Handle Style
+1254,1651,LOUIS VUITTON,Brand,Brand
+1255,1651,Damier,Product Line,Product Line
+1256,1651,Ebene,Color,Color
+1257,1651,Trousse,Type,Model
+1258,1651,Make Up Hand,Type,
+1259,1651,Pouch,Type,Type
+1260,1651,N51982,MPN,MPN
+1261,1651,LV,Brand,Brand
+1262,1661,LOUIS VUITTON,Brand,Brand
+1263,1661,Bum,Type,Type
+1264,1661,back,Style,No Tag
+1265,1661,Waist,Type,Type
+1266,1661,bag Body,Type,
+1267,1661,bag,Type,Type
+1268,1661,bag,Type,Type
+1269,1661,M95347,MPN,MPN
+1270,1661,Monogram,Pattern,Pattern
+1271,1661,denim,Fabric Type,
+1272,1661,canvas,Fabric Type,
+1273,1661,Blue,Color,Color
+1274,1671,Burberry,Brand,Brand
+1275,1671,Jessie,Model,Obscure
+1276,1671,Check,Pattern,
+1277,1671,Card Case,Type,
+1278,1671,Bag,Type,Type
+1279,1671,Detachable,Features,Features
+1280,1671,Strap,Handle Style,Obscure
+1281,1681,Gothic,Style,
+1282,1681,Waist,Type,Type
+1283,1681,Bag,Type,Type
+1284,1681,Bag,Type,Type
+1285,1681,Leather,Material,Material
+1286,1681,Bag,Type,Type
+1287,1681,Bag,Type,Type
+1288,1681,Hip,Type,Type
+1289,1681,Holster,Style,No Tag
+1290,1681,Purse,Type,Type
+1291,1691,Brahmin,Brand,Brand
+1292,1691,Duxbury,Product Line,Product Line
+1293,1691,Elmwood Padua,Model,Model
+1294,1691,Mossy,Color,Color
+1295,1691,Green,Color,Color
+1296,1691,Brown,Color,Color
+1297,1691,Leather,Material,Material
+1298,1691,Bag,Type,Type
+1299,1691,Wallet,Type,Type
+1300,1701,Marc,Product Line,Product Line
+1301,1701,Marc Jacobs,Brand,Brand
+1302,1701,What 's The T,Model,Model
+1303,1701,Violet,Color,Color
+1304,1701,Leather,Material,Material
+1305,1701,Tote,Type,Type
+1306,1701,Bag,Type,Type
+1307,1711,Mini,Size,Size
+1308,1711,Mochila,Type,Type
+1309,1711,Cruzada,Model,
+1310,1711,Cuadros,Pattern,
+1311,1711,Mujer,Department,Department
+1312,1711,Bolso,Type,
+1313,1711,Hombro,Type,
+1314,1711,Teléfono,Material,
+1315,1721,Prada,Brand,Brand
+1316,1721,Cahier,Model,Model
+1317,1721,Chain,Handle/Strap Material,Handle/Strap Material
+1318,1721,Crossbody,Type,Type
+1319,1721,Bag,Type,Type
+1320,1721,Metallic,Color,Color
+1321,1721,Leather,Material,Material
+1322,1721,Saffiano,Material,Material
+1323,1721,Small,Size,Size
+1324,1731,burberry,Brand,Brand
+1325,1731,handbag,Type,Type
+1326,1741,YVES SAINT LAURENT,Brand,Brand
+1327,1741,Quilted,Accents,Features
+1328,1741,Shoulder,Type,Type
+1329,1741,Cross Body,Type,Type
+1330,1741,Bag,Type,Type
+1331,1741,Leather,Material,Material
+1332,1741,Black,Color,Color
+1333,1751,Vera Bradley,Brand,Brand
+1334,1751,PAISLEY WAVE,Model,
+1335,1751,Vera,Brand,Brand
+1336,1751,Tote,Type,Type
+1337,1751,Bag,Type,Type
+1338,1751,Large,Size,Size
+1339,1751,Shoulder,Type,Type
+1340,1751,Purse,Type,Type
+1341,1761,Louis Vuitton,Brand,Brand
+1342,1761,Wild At Heart,Model,Model
+1343,1761,Keepall,Product Line,Product Line
+1344,1761,Bandouliere,Type,Type
+1345,1761,45,Model,Model
+1346,1761,Black,Color,Color
+1347,1761,White,Color,Color
+1348,1761,Duffle,Type,Type
+1349,1761,Travel,Occasion,Occasion
+1350,1761,Bag,Type,Type
+1351,1771,Louis Vuitton,Brand,Brand
+1352,1771,PM,Model,Model
+1353,1771,Monogram,Pattern,Pattern
+1354,1771,Nimbus,Model,Model
+1355,1771,Charcoal,Color,Color
+1356,1781,Michael Kors,Brand,Brand
+1357,1781,Geneva,Model,Model
+1358,1781,Grey,Color,Color
+1359,1781,Pebbled,Pattern,Pattern
+1360,1781,Leather,Material,Material
+1361,1781,Large,Size,Size
+1362,1781,Satchel,Type,Type
+1363,1781,Shoulder,Type,Type
+1364,1781,Bag,Type,Type
+1365,1791,LOEWE,Brand,Brand
+1366,1791,Gate,Model,Model
+1367,1791,Bag,Type,Type
+1368,1791,Bag,Type,Type
+1369,1791,Small,Size,Size
+1370,1791,Beige,Color,Color
+1371,1791,Dark,Color,Color
+1372,1791,Brown,Color,Color
+1373,1791,Leather,Material,Material
+1374,1791,Shoulder,Type,Type
+1375,1791,Bag,Type,Type
+1376,1791,Bag,Type,Type
+1377,1801,Multi-pockets,Pocket Type,Features
+1378,1801,Felt,Material,Material
+1379,1801,Purse,Type,Type
+1380,1801,Handbag,Type,Type
+1381,1801,Organizer,Type,No Tag
+1382,1801,Tote,Type,Type
+1383,1801,Liner,Type,No Tag
+1384,1801,Bag,Type,Type
+1385,1811,CHANEL,Brand,Brand
+1386,1811,CC,Brand,Brand
+1387,1811,XL,Size,Size
+1388,1811,Matelasse,Pattern,Pattern
+1389,1811,Chain,Handle/Strap Material,Handle/Strap Material
+1390,1811,Shoulder,Type,Type
+1391,1811,Bag,Type,Type
+1392,1811,Leather,Material,Material
+1393,1811,Black,Color,Color
+1394,1811,Gold,Color,Color
+1395,1821,GUCCI,Brand,Brand
+1396,1821,GG,Pattern,Pattern
+1397,1821,Hand Bag,Type,Type
+1398,1821,PVC Leather,Material,Material
+1399,1821,Brown,Color,Color
+1400,1821,Gold,Color,Color
+1401,1821,Italy,Country/Region of Manufacture,Country/Region of Manufacture
+1402,1821,61JC543,MPN,MPN
+1403,1831,louis vuittons,Brand,Brand
+1404,1831,handbags,Type,Type
+1405,1841,Angelkiss,Brand,Brand
+1406,1841,Hobo,Type,Type
+1407,1841,Purses,Type,Type
+1408,1841,Purses,Type,Type
+1409,1841,handbags,Type,Type
+1410,1841,Women,Department,Department
+1411,1841,Women,Department,Department
+1412,1841,Satchel,Type,Type
+1413,1841,Handbag,Type,Type
+1414,1841,Women,Department,Department
+1415,1841,Women,Department,Department
+1416,1841,Purses,Type,Type
+1417,1841,Purses,Type,Type
+1418,1841,Large,Size,Size
+1419,1851,COACH,Brand,Brand
+1420,1851,FINEST,Model,No Tag
+1421,1851,SUEDE,Material,Material
+1422,1851,BLUE,Color,Color
+1423,1851,LG,Size,Size
+1424,1851,GALLERY,Model,Model
+1425,1851,TOTE,Type,
+1426,1851,SHOULDER,Type,Type
+1427,1851,BAG,Type,Type
+1428,1851,PURSE,Type,Type
+1429,1861,Sydney Love,Brand,Brand
+1430,1861,Cats and Dogs,Theme,Product Line
+1431,1861,Pincher,Model,Model
+1432,1861,Clutch,Type,Type
+1433,1871,LOUIS VUITTON,Brand,Brand
+1434,1871,POCHETTE,Product Line,Product Line
+1435,1871,SOLO,Model,Model
+1436,1871,BUM,Type,Type
+1437,1871,BAG,Type,Type
+1438,1871,DAMIER,Product Line,Product Line
+1439,1871,AZUR,Color,Color
+1440,1871,M9835,MPN,MPN
+1441,1881,JUDITH LEIBER,Brand,Brand
+1442,1881,POSH,Model,No Tag
+1443,1881,HANDLED,Type,Handle Style
+1444,1881,JEWELED,Accents,
+1445,1881,SWAROVSKI CRYSTAL,Accents,
+1446,1881,MINAUDIERE,Style,Style
+1447,1881,EVENING,Occasion,Occasion
+1448,1881,BAG,Type,Type
+1449,1891,Canvas,Fabric Type,Fabric Type
+1450,1891,Tote,Type,Type
+1451,1891,Satchel,Type,Type
+1452,1891,Handbag,Type,Type
+1453,1891,Red,Color,Color
+1454,1891,Faux Leather,Material,
+1455,1891,Zipper,Closure,Closure
+1456,1891,Cotton,Material,Material
+1457,1901,COACH,Brand,Brand
+1458,1901,Beige,Color,Color
+1459,1901,Camel,Color,Color
+1460,1901,Tan,Color,Color
+1461,1901,Leather,Material,Material
+1462,1901,Bucket,Type,Type
+1463,1901,Drawstring,Closure,Closure
+1464,1901,Hobo,Type,Type
+1465,1901,Shoulder,Type,Type
+1466,1901,Bag,Type,Type
+1467,1911,Women 's,Department,Department
+1468,1911,Small,Size,Size
+1469,1911,Backpack,Type,Type
+1470,1911,School,Occasion,Occasion
+1471,1911,Back Pack,Type,Type
+1472,1911,Mochila Escolar,Model,Model
+1473,1911,Bag,Type,Type
+1474,1911,Leather,Material,Material
+1475,1911,Rucksack,Type,Type
+1476,1921,FENDI,Brand,Brand
+1477,1921,Zucca,Pattern,Pattern
+1478,1921,Mamma,Product Line,Product Line
+1479,1921,Baguette,Type,Type
+1480,1921,Hand Bag,Type,Type
+1481,1921,Brown,Color,Color
+1482,1921,Canvas,Fabric Type,Fabric Type
+1483,1921,Leather,Material,Material
+1484,1931,CHANEL,Brand,Brand
+1485,1931,BAG,Type,Type
+1486,1931,BAG,Type,Type
+1487,1931,SHOULDER,Type,Type
+1488,1931,BAG,Type,Type
+1489,1931,BAG,Type,Type
+1490,1931,MATRASSE,Features,Features
+1491,1931,QUILTED,Features,Accents
+1492,1931,SINGLE CHAIN,Type,
+1493,1941,GOYARD,Brand,Brand
+1494,1941,Bag,Type,Type
+1495,1951,Handloom,Accents,No Tag
+1496,1951,Shoulder,Type,Type
+1497,1951,Handbag,Type,Type
+1498,1951,Eco Friendly,Features,Features
+1499,1951,Student,Department,Department
+1500,1951,Shopping,Type,Type
+1501,1951,Traveling,Occasion,Occasion
+1502,1951,Tote,Type,Type
+1503,1951,Bag,Type,Type
+1504,1961,Louis Vuitton,Brand,Brand
+1505,1961,Vernis,Product Line,Product Line
+1506,1961,Leather,Material,Material
+1507,1961,Summit Drive,Model,Model
+1508,1961,Boston,Type,Type
+1509,1961,Bag,Type,Type
+1510,1971,GUCCI,Brand,Brand
+1511,1971,Bamboo,Product Line,Product Line
+1512,1971,2Way,Features,
+1513,1971,Hand,Type,
+1514,1971,Shoulder,Type,
+1515,1971,Bag,Type,
+1516,1971,Nylon,Material,Lining Material
+1517,1971,Leather,Trim Material,Material
+1518,1971,Black,Color,Color
+1519,1981,KATE SPADE,Brand,Brand
+1520,1981,LEATHER,Material,Material
+1521,1981,HANDBAG,Type,Type
+1522,1981,FRENCH,Color,Color
+1523,1981,GREY,Color,Color
+1524,1981,IRVING PLACE,Accents,Product Line
+1525,1981,LITTLE NADINE,Color,Model
+1526,1991,CHANEL,Brand,Brand
+1527,1991,Foulard,Model,Model
+1528,1991,Fabric,Material,Material
+1529,1991,Quilted,Features,Features
+1530,1991,Printed,Features,Features
+1531,1991,Backpack,Type,Type
+1532,1991,Pink,Color,Color
+1533,1991,Shoulder,Type,Type
+1534,1991,Bag,Type,Type
+1535,2001,Multicolor,Color,Color
+1536,2001,Patchwork,Pattern,Pattern
+1537,2001,Leather,Material,Material
+1538,2001,Women,Department,Department
+1539,2001,Backpack,Type,Type
+1540,2001,Shoulder,Type,Type
+1541,2001,Handbag Bag,Type,Type
+1542,2001,QR,Accents,No Tag
+1543,2011,Chanel,Brand,Brand
+1544,2011,Mini,Size,Size
+1545,2011,Wallet On Chain,Type,Type
+1546,2011,21C,Model,No Tag
+1547,2021,Gucci,Brand,Brand
+1548,2021,Printed,Features,Features
+1549,2021,Logo,Accents,Accents
+1550,2021,Drawstring,Closure,Closure
+1551,2021,Red,Color,Color
+1552,2021,Leather,Material,Material
+1553,2021,Backpack,Type,Type
+1554,2031,LOUIS VUITTON,Brand,Brand
+1555,2031,READE PM,Model,Model
+1556,2031,Hand Bag,Type,Type
+1557,2031,Purse,Type,Type
+1558,2031,Monogram,Pattern,Pattern
+1559,2031,Vernis,Product Line,Product Line
+1560,2031,Leather,Material,Material
+1561,2031,M91336,MPN,MPN
+1562,2031,Perle,Color,No Tag
+1563,2041,Coach,Brand,Brand
+1564,2041,Hamptons,Model,Model
+1565,2041,Carryall,Type,Type
+1566,2041,LG,Size,Size
+1567,2041,Natural,Color,Color
+1568,2041,Tan,Color,Color
+1569,2041,Leather,Material,Material
+1570,2041,Tote,Type,Type
+1571,2041,Bag,Type,Type
+1572,2041,Satchel,Type,Type
+1573,2051,PURSE,Type,Type
+1574,2051,HANDBAG,Type,Type
+1575,2051,CAMBODIA,Brand,Country/Region of Manufacture
+1576,2051,GREY,Color,Color
+1577,2051,BLACK,Color,Color
+1578,2051,3 HANDLES,Handle Style,
+1579,2051,CROSSBODY,Type,Type
+1580,2051,SHOULDER,Type,Type
+1581,2051,BAG,Type,Type
+1582,2061,Louis Vuitton,Brand,Brand
+1583,2061,M69422,MPN,MPN
+1584,2061,Petit Sac Plat,Model,
+1585,2061,Monogram,Pattern,Pattern
+1586,2061,Canvas,Fabric Type,Fabric Type
+1587,2061,Shoulder,Type,Type
+1588,2061,Bags,Type,Type
+1589,2071,COACH,Brand,Brand
+1590,2071,LUREX,Product Line,Model
+1591,2071,GOLD,Color,Color
+1592,2071,CHENILLE,Model,Material
+1593,2071,EVENING PARTY,Occasion,Occasion
+1594,2071,OCCASION,Pattern,No Tag
+1595,2071,FRAMED,Pattern,Style
+1596,2071,PURSE,Type,Type
+1597,2071,TOTE,Type,Type
+1598,2071,BAG,Type,Type
+1599,2081,CHANEL,Brand,Brand
+1600,2081,Black,Color,Color
+1601,2081,Quilted,Accents,Accents
+1602,2081,Leather,Material,Material
+1603,2081,Large XL,Size,Size
+1604,2081,Tote,Type,Type
+1605,2081,Bag,Type,Type
+1606,2091,Dooney & Bourke,Brand,Brand
+1607,2091,It,Model,Model
+1608,2091,Medium,Size,Size
+1609,2091,Shopper,Type,Type
+1610,2091,Tote,Type,Type
+1611,2101,CHANEL,Brand,Brand
+1612,2101,WHITE,Color,Color
+1613,2101,LAMBSKIN,Material,Material
+1614,2101,PURSE,Type,Type
+1615,2111,GUCCI,Brand,Brand
+1616,2111,Velvet,Material,Material
+1617,2111,Matelasse,Pattern,Pattern
+1618,2111,Medium,Size,Size
+1619,2111,GG Marmont,Product Line,Product Line
+1620,2111,Shoulder,Type,Type
+1621,2111,Bag,Type,Type
+1622,2111,Black,Color,Color
+1623,2111,❤,Brand,No Tag
+1624,2121,JUDITH LEIBER,Brand,Brand
+1625,2121,Chocolate Bar,Model,Product Line
+1626,2121,Minaudiere,Style,Style
+1627,2121,Bag,Type,Type
+1628,2121,Silver,Color,Color
+1629,2121,Yellow,Color,Color
+1630,2121,Gold,Color,Color
+1631,2121,Crystals,Accents,Accents
+1632,2131,GUCCI,Brand,Brand
+1633,2131,80 's,Theme,Theme
+1634,2131,Cross Body,Type,Type
+1635,2131,Bag,Type,Type
+1636,2141,ALEXANDER WANG,Brand,Brand
+1637,2141,Taupe,Color,Color
+1638,2141,Grey,Color,Color
+1639,2141,Dumbo,Size,No Tag
+1640,2141,Leather,Material,Material
+1641,2141,Rose,Color,Color
+1642,2141,Gold,Color,Color
+1643,2141,Studded,Accents,Accents
+1644,2141,Rocco,Model,Model
+1645,2141,Duffle,Type,Type
+1646,2141,Bag,Type,Type
+1647,2151,Vera Bradley,Brand,Brand
+1648,2151,Large,Size,Size
+1649,2151,Traveler,Occasion,Model
+1650,2151,Duffel,Type,Type
+1651,2151,Bag,Type,Type
+1652,2151,Floral,Pattern,Pattern
+1653,2151,Pink,Color,Color
+1654,2151,Brown,Color,Color
+1655,2151,Red,Color,Color
+1656,2161,Shopping,Type,Type
+1657,2161,Basket,Type,Type
+1658,2161,Shopper,Type,Type
+1659,2161,Trolley,Type,Type
+1660,2161,baroque,Theme,Obscure
+1661,2161,taupe,Color,Color
+1662,2171,GUCCI,Brand,Brand
+1663,2171,Soho,Product Line,Model
+1664,2171,GG,Brand,Brand
+1665,2171,Blue,Color,Color
+1666,2171,Denim,Fabric Type,Fabric Type
+1667,2171,Brown,Color,Color
+1668,2171,Leather,Material,Material
+1669,2171,Tassel,Accents,Accents
+1670,2171,Chain,Handle/Strap Material,Handle/Strap Material
+1671,2171,Shoulder,Type,
+1672,2171,Straps,Type,
+1673,2171,Bag,Type,Type
+1674,2171,Purse,Type,Type
+1675,2181,Summer,Season,Season
+1676,2181,Chains,Handle/Strap Material,Handle/Strap Material
+1677,2181,Shoulder,Type,Type
+1678,2181,Bag,Type,Type
+1679,2181,Women,Department,Department
+1680,2181,Purse,Type,Type
+1681,2181,Handbags,Type,Type
+1682,2181,Luxury,Theme,Theme
+1683,2181,Crossbody,Type,Type
+1684,2181,Bags,Type,Type
+1685,2191,LOUIS VUITTON,Brand,Brand
+1686,2191,POCHETTE,Product Line,Product Line
+1687,2191,COSMETIC,Type,Type
+1688,2191,POUCH,Type,Type
+1689,2191,BAG,Type,Type
+1690,2191,PURSE,Type,Type
+1691,2191,DAMIER,Product Line,Product Line
+1692,2191,N47516 CA2077,MPN,
+1693,2201,Luv,Product Line,Product Line
+1694,2201,Betsey Johnson,Brand,Brand
+1695,2201,pink,Color,Color
+1696,2201,floral,Pattern,Pattern
+1697,2201,shoulder,Type,Type
+1698,2201,backpack,Type,Type
+1699,2201,travelers,Occasion,Occasion
+1700,2201,overnight,Occasion,Occasion
+1701,2211,LOUIS VUITTON,Brand,Brand
+1702,2211,Sac,Model,
+1703,2211,Shopping,Type,
+1704,2211,Shoulder,Type,Type
+1705,2211,Tote,Type,Type
+1706,2211,Bag,Type,Type
+1707,2211,Monogram,Pattern,Pattern
+1708,2211,Leather,Material,Material
+1709,2211,M51108 39MQ378,MPN,MPN
+1710,2221,Cowhide,Material,Material
+1711,2221,Saddle,Type,Type
+1712,2221,Leather,Material,Material
+1713,2221,Crossbody,Type,Type
+1714,2221,Western,Style,Style
+1715,2221,Saddlebag,Type,Type
+1716,2221,Handbag,Type,Type
+1717,2221,Conchos,Accents,No Tag
+1718,2231,ANGELKISS,Brand,Brand
+1719,2231,Women,Department,Department
+1720,2231,Soft,Features,Features
+1721,2231,Washed,Fabric Type,Fabric Type
+1722,2231,PU Leather,Material,Material
+1723,2231,Handbag,Type,Type
+1724,2231,Tote,Type,Type
+1725,2231,Satchel,Type,Type
+1726,2231,Shoulder,Type,
+1727,2231,Bag,Type,
+1728,2241,LOUIS VUITTON,Brand,Brand
+1729,2241,Triangle,Style,Style
+1730,2241,Messenger,Type,Type
+1731,2241,Bag,Type,Type
+1732,2241,M45070,MPN,MPN
+1733,2241,Tuffetage,Model,Accents
+1734,2241,Monogram,Pattern,Pattern
+1735,2241,Canvas,Fabric Type,Fabric Type
+1736,2241,Brown,Color,Color
+1737,2251,GUESS,Brand,Brand
+1738,2251,Juliet,Model,
+1739,2251,Girlfriend,Department,
+1740,2251,Dome,Style,Style
+1741,2251,Satchel,Type,Type
+1742,2251,Bag,Type,Type
+1743,2251,Purse,Type,Type
+1744,2251,Quilted,Features,Features
+1745,2251,Signature,Pattern,Pattern
+1746,2251,Charm,Accents,Accents
+1747,2261,Lady,Product Line,
+1748,2261,DIOR,Brand,
+1749,2261,Medium,Size,Size
+1750,2261,D-Lite,Model,Model
+1751,2261,Bag,Type,Type
+1752,2271,VERA BRADLEY,Brand,Brand
+1753,2271,Classic,Model,No Tag
+1754,2271,RASPBERRY,Color,Color
+1755,2271,FIZZ,Pattern,Color
+1756,2271,Cotton,Material,Material
+1757,2271,Dufflel,Type,Type
+1758,2271,Handbag,Type,Type
+1759,2271,9.5,"Measurement, dimension",
+1760,2271,x7x5,"Measurement, dimension",
+1761,2281,Samsonite,Brand,Brand
+1762,2281,DLX Spinner,Model,
+1763,2281,Carry-On,Type,Type
+1764,2281,Luggage,Type,Type
+1765,2281,Large,Size,Size
+1766,2281,Blue,Color,Color
+1767,2281,Travel,Occasion,Occasion
+1768,2281,Bag,Type,Type
+1769,2291,Women,Department,Department
+1770,2291,Corduroy,Fabric Type,
+1771,2291,Canvas,Fabric Type,
+1772,2291,Tote,Type,Type
+1773,2291,Bag,Type,Type
+1774,2291,Bag,Type,Type
+1775,2291,Shoulder,Type,Type
+1776,2291,Handbag,Type,Type
+1777,2291,Shopping,Type,Type
+1778,2291,Bags,Type,Type
+1779,2291,Casual Beach,Occasion,Occasion
+1780,2291,Bag,Type,Type
+1781,2291,Bag,Type,Type
+1782,2301,SONDRA ROBERTS,Brand,Brand
+1783,2301,BLACK,Color,Color
+1784,2301,LEATHER,Material,Material
+1785,2301,HOBO,Type,Type
+1786,2301,TOTE,Type,Type
+1787,2301,BAG,Type,Type
+1788,2301,TASSELS,Accents,Accents
+1789,2301,REMOVEABLE,Features,
+1790,2311,Westend,Brand,Brand
+1791,2311,Crossbody,Type,Type
+1792,2311,Sling,Handle Style,Handle Style
+1793,2311,Bag,Type,Type
+1794,2311,Reversible,Features,Features
+1795,2311,Strap,Handle Style,Handle Style
+1796,2321,Louis Vuitton,Brand,Brand
+1797,2321,Damier,Product Line,Product Line
+1798,2321,Ebene,Color,Color
+1799,2321,Canvas,Fabric Type,Fabric Type
+1800,2321,Leather,Material,Material
+1801,2321,Verona MM,Model,Model
+1802,2321,Bag,Type,Type
+1803,2331,Women Ladies,Department,Department
+1804,2331,Shoulder,Type,Type
+1805,2331,Bag,Type,Type
+1806,2331,CANVAS,Fabric Type,Fabric Type
+1807,2331,MESSENGER,Type,Type
+1808,2331,HANDBAGS,Type,Type
+1809,2331,CROSSBODY,Type,Type
+1810,2331,Bags,Type,Type
+1811,2331,Men,Department,Department
+1812,2341,LOUIS VUITTON,Brand,Brand
+1813,2341,Monogram,Pattern,Pattern
+1814,2341,Cerises Cherries,Model,Model
+1815,2341,Pochette,Product Line,Product Line
+1816,2341,Clutch,Type,Type
+1817,2341,Pouch,Type,Type
+1818,2341,Bag,Type,Type
+1819,2351,Womens,Department,Department
+1820,2351,Cork Leather,Material,Material
+1821,2351,Clutch Bag,Type,Type
+1822,2351,Eco Friendly,Features,Features
+1823,2351,Cross Body,Type,Type
+1824,2351,Handbag,Type,Type
+1825,2361,KAVU,Brand,Brand
+1826,2361,Sidewinder,Model,Product Line
+1827,2361,Crossbody,Type,Type
+1828,2361,Bag,Type,Type
+1829,2361,Pineapple Express,Pattern,Pattern
+1830,2371,NEW-VALENTINA,Brand,Brand
+1831,2371,GOLD,Color,Color
+1832,2371,SUEDE+COGNAC LEATHER,Material,
+1833,2371,TOTE,Type,Type
+1834,2371,CROSSBODY,Type,Type
+1835,2371,HAND BAG,Type,
+1836,2381,Chanel,Brand,Brand
+1837,2381,Tote,Type,Type
+1838,2381,Bag,Type,Type
+1839,2381,Black,Color,Color
+1840,2381,PVC,Material,Material
+1841,2391,Bag,Type,Type
+1842,2391,Skin,Material,
+1843,2401,GUCCI,Brand,Brand
+1844,2401,Leather,Material,Material
+1845,2401,Bamboo,Product Line,Product Line
+1846,2401,Lavender,Color,Color
+1847,2401,Shoulder,Type,Type
+1848,2401,Bag,Type,Type
+1849,2401,Fringe,Accents,Accents
+1850,2401,GS2039,MPN,MPN
+1851,2411,Christian Dior,Brand,Brand
+1852,2411,Grained Calfskin,Material,
+1853,2411,Cannage,Pattern,Pattern
+1854,2411,Large,Size,Size
+1855,2411,Supple,Features,No Tag
+1856,2411,Lady Dior,Product Line,Product Line
+1857,2411,Mauve,Color,Color
+1858,2421,GUCCI,Brand,Brand
+1859,2421,Boston,Type,Type
+1860,2421,Bag,Type,Type
+1861,2421,Black,Color,Color
+1862,2421,Nylon,Material,Material
+1863,2431,LOUIS VUITTON,Brand,Brand
+1864,2431,Sac Depaule,Model,Model
+1865,2431,M80155,MPN,MPN
+1866,2431,Noir,Color,Color
+1867,2431,Cuir,Color,Material
+1868,2431,Black,Color,Color
+1869,2431,Epi,Material,Material
+1870,2431,VI0956,MPN,No Tag
+1871,2431,Shoulder,Type,Type
+1872,2431,Bag,Type,Type
+1873,2441,Louis Vuitton,Brand,Brand
+1874,2441,Monogram,Pattern,Pattern
+1875,2441,Canvas,Fabric Type,Fabric Type
+1876,2441,Montsouris,Model,Model
+1877,2441,Backpack,Type,Type
+1878,2441,MM,Model,Model
+1879,2441,Women 's,Department,Department
+1880,2451,Michael Kors,Brand,Brand
+1881,2451,Bedford,Model,Model
+1882,2451,Large,Size,Size
+1883,2451,Signature,Pattern,Pattern
+1884,2451,Shoulder,Type,Type
+1885,2451,Bag,Type,Type
+1886,2461,Louis Vuitton,Brand,Brand
+1887,2461,FELICIE,Model,Model
+1888,2461,POCHETTE,Product Line,Product Line
+1889,2461,Monogram,Pattern,Pattern
+1890,2461,Empreinte,Accents,Accents
+1891,2461,Leather,Material,Material
+1892,2461,Turtledove,Color,
+1893,2471,Cross Body,Type,Type
+1894,2471,Western,Style,Style
+1895,2471,Purse,Type,Type
+1896,2481,Prada,Brand,Brand
+1897,2481,Saffiano Borsa,Material,Material
+1898,2481,Black,Color,Color
+1899,2481,Leather,Material,Material
+1900,2481,Shoulder,Type,Type
+1901,2481,Tote,Type,Type
+1902,2481,Handbag,Type,Type
+1903,2491,Gucci,Brand,Brand
+1904,2491,Crossbody,Type,Type
+1905,2491,Bag,Type,Type
+1906,2501,Moschino Couture Jeremy Scott X UNIVERSAL DRACULA,Brand,
+1907,2501,CROSSBODY,Type,Type
+1908,2501,BAG,Type,Type
+1909,2511,Jonathan Adler,Brand,Brand
+1910,2511,Women 's,Department,Department
+1911,2511,Blue,Color,Color
+1912,2511,Tote,Type,Type
+1913,2511,Duchess,Model,Model
+1914,2511,Honeycomb,Model,Pattern
+1915,2511,Medium,Size,Size
+1916,2511,Eastwest,Style,No Tag
+1917,2521,COACH,Brand,Brand
+1918,2521,Madison,Product Line,Product Line
+1919,2521,Small,Size,Size
+1920,2521,Orange,Color,Color
+1921,2521,Leather,Material,Material
+1922,2521,Satchel,Type,Type
+1923,2521,Tote,Type,Type
+1924,2521,Handbag,Type,Type
+1925,2531,Brighton,Brand,Brand
+1926,2531,Vela Ferrara,Brand,
+1927,2531,Nova,Model,
+1928,2531,Leather,Material,Material
+1929,2531,Crossbody,Type,Type
+1930,2541,COACH,Brand,Brand
+1931,2541,Swagger,Model,Model
+1932,2541,"27 ""","Measurement, dimension","Measurement, dimension"
+1933,2541,BUTTERFLY,Pattern,Pattern
+1934,2541,glove,Type,Color
+1935,2541,tanned,Fabric Type,Color
+1936,2541,leather,Material,Material
+1937,2551,LARGE,Size,Size
+1938,2551,Prada,Brand,Brand
+1939,2551,Avant Garde,Model,Model
+1940,2551,fur,Material,Material
+1941,2551,shearling,Fabric Type,Fabric Type
+1942,2551,RUNWAY,Model,Product Line
+1943,2551,purse,Type,Type
+1944,2551,Bag,Type,Type
+1945,2561,Hammitt,Brand,
+1946,2561,Daniel,Model,
+1947,2561,Black,Color,Color
+1948,2561,Medium,Size,Size
+1949,2561,Strap,Handle Style,Handle Style
+1950,2561,Leather,Material,Material
+1951,2561,Bag,Type,Type
+1952,2561,Purse,Type,Type
+1953,2561,Purse,Type,Type
+1954,2561,Gunmetal,Hardware Material,Hardware Material
+1955,2561,Handbag,Type,Type
+1956,2561,Purse,Type,Type
+1957,2561,Purse,Type,Type
+1958,2571,CHANEL,Brand,Brand
+1959,2571,Mini,Size,Size
+1960,2571,Matelasse,Pattern,Pattern
+1961,2571,Chain,Handle/Strap Material,Handle/Strap Material
+1962,2571,Shoulder,Type,Type
+1963,2571,Bag,Type,Type
+1964,2571,Lambskin,Material,Material
+1965,2571,Red,Color,Color
+1966,2581,Tumi,Brand,Brand
+1967,2581,Voyageur Mauren,Model,Model
+1968,2581,Business Casual,Occasion,Occasion
+1969,2581,Tote,Type,Type
+1970,2581,Bag,Type,Type
+1971,2581,African,Theme,Theme
+1972,2581,Floral,Pattern,Pattern
+1973,2581,Carry-All,Type,Type
+1974,2591,Louis Vuitton,Brand,Brand
+1975,2591,Canvas,Fabric Type,Fabric Type
+1976,2591,Antigua Cabas MM,Model,Model
+1977,2591,Red,Color,Color
+1978,2591,handbag,Type,Type
+1979,2591,shoulder,Type,Type
+1980,2591,bag,Type,Type
+1981,2591,M40034,MPN,MPN
+1982,2601,BALENCIAGA,Brand,Brand
+1983,2601,BAG,Type,Type
+1984,2601,BAG,Type,Type
+1985,2601,BAG,Type,Type
+1986,2601,SHOULDER,Type,Type
+1987,2601,BAG CLUTCH,Type,
+1988,2601,BAG,Type,Type
+1989,2601,BAG,Type,Type
+1990,2601,BAG,Type,Type
+1991,2601,SUEDE LEATHER,Material,Material
+1992,2601,LOGO,Accents,Accents
+1993,2611,LOUIS VUITTON,Brand,Brand
+1994,2611,RAVELLO GM,Model,Model
+1995,2611,HAND BAG,Type,Type
+1996,2611,PURSE,Type,Type
+1997,2611,DAMIER,Product Line,Product Line
+1998,2611,EBENE,Color,Color
+1999,2611,N60006,MPN,MPN
+2000,2621,Louis Vuitton,Brand,Brand
+2001,2621,Handbag,Type,Type
+2002,2621,Damier,Product Line,Product Line
+2003,2621,PM,Model,Model
+2004,2631,RED,Color,Color
+2005,2631,LEATHER,Material,Material
+2006,2631,HOBO,Type,Type
+2007,2631,SHOULDER,Type,Type
+2008,2631,BAG,Type,Type
+2009,2631,BAG,Type,Type
+2010,2631,HANDBAG,Type,Type
+2011,2631,PURSE,Type,Type
+2012,2631,BAG,Type,Type
+2013,2631,BAG,Type,Type
+2014,2641,Louis Vuitton,Brand,Brand
+2015,2641,Berkeley,Model,Model
+2016,2641,N52000,MPN,MPN
+2017,2641,Damier,Product Line,Product Line
+2018,2641,Boston,Type,Type
+2019,2641,Hand Bag,Type,Type
+2020,2641,Purse,Type,Type
+2021,2641,Brown,Color,Color
+2022,2641,Gold,Color,Color
+2023,2641,France,Country/Region of Manufacture,Country/Region of Manufacture
+2024,2641,LV,Brand,Brand
+2025,2651,Anime,Theme,Theme
+2026,2651,Purse,Type,Type
+2027,2651,Bag Pack,Type,Type
+2028,2651,Panda,Pattern,
+2029,2651,Pouches,Type,Type
+2030,2651,Shoulder Strap,Handle Style,Handle Style
+2031,2661,VERA BRADLEY,Brand,Brand
+2032,2661,DESERT CARDINALS,Model,Model
+2033,2661,RFID,Features,Features
+2034,2661,GRAB & GO,Model,
+2035,2661,WRISTLET,Handle Style,Handle Style
+2036,2661,WALLET,Type,Type
+2037,2671,Lululemon,Brand,Brand
+2038,2671,Belt,Type,Style
+2039,2671,Cross Body,Type,Type
+2040,2671,Bag,Type,Type
+2041,2671,Fanny Pack,Type,Type
+2042,2671,Black,Color,Color
+2043,2671,Mesh,Fabric Type,Fabric Type
+2044,2671,Adjustable,Features,Features
+2045,2681,LOUIS VUITTON,Brand,Brand
+2046,2681,Logo,Accents,Accents
+2047,2681,Luco,Model,Model
+2048,2681,Shoulder,Type,Type
+2049,2681,Tote,Type,Type
+2050,2681,Bag,Type,Type
+2051,2681,Monogram,Pattern,Pattern
+2052,2681,Leather,Material,Material
+2053,2681,Brown,Color,Color
+2054,2681,M51155 72ML359,MPN,MPN
+2055,2691,Dooney & Bourke,Brand,Brand
+2056,2691,City,Model,Model
+2057,2691,Patent,Material,Material
+2058,2691,Barlow,Style,Style
+2059,2691,Bag,Type,Type
+2060,2701,Roxy Adventurer,Model,
+2061,2701,Canvas,Fabric Type,Fabric Type
+2062,2701,Backpack,Type,Type
+2063,2701,Charcoal,Color,Color
+2064,2701,Grey,Color,Color
+2065,2711,Camp Collection,Brand,Brand
+2066,2711,Dip Dye,Model,Pattern
+2067,2711,Market,Occasion,Occasion
+2068,2711,Tote,Type,Type
+2069,2711,Pink,Color,Color
+2070,2711,Ombré,Color,Color
+2071,2721,GUCCI,Brand,Brand
+2072,2721,Black,Color,Color
+2073,2721,Canvas,Fabric Type,Fabric Type
+2074,2721,Leather,Material,Material
+2075,2721,Travel Weekend,Occasion,Occasion
+2076,2721,Duffle,Type,Type
+2077,2721,Bag,Type,Type
+2078,2731,gucci,Brand,Brand
+2079,2731,boston,Type,Type
+2080,2731,handbag,Type,Type
+2081,2731,Scarf,Type,No Tag
+2082,2741,HERMES,Brand,Brand
+2083,2741,Fourre Tout,Product Line,Product Line
+2084,2741,MM,Model,Model
+2085,2741,Hand,Type,Type
+2086,2741,Tote,Type,Type
+2087,2741,Bag,Type,Type
+2088,2741,Canvas,Fabric Type,Fabric Type
+2089,2741,Black,Color,Color
+2090,2741,Navy,Color,Color
+2091,2751,SEE,Product Line,
+2092,2751,CHLOE,Brand,
+2093,2751,Camel,Color,Color
+2094,2751,Beige,Color,Color
+2095,2751,Leather,Material,Material
+2096,2751,Buckle,Closure,Closure
+2097,2751,Tote,Type,Type
+2098,2751,Bag,Type,Type
+2099,2761,logo,Accents,Accents
+2100,2761,Gucci,Brand,Brand
+2101,2761,Messenger,Type,Type
+2102,2761,Bag,Type,Type
+2103,2771,GOYARD,Brand,Brand
+2104,2771,Artois PM,Model,Model
+2105,2771,Tote,Type,Type
+2106,2771,Bag,Type,Type
+2107,2771,Gray,Color,Color
+2108,2771,Herringbone,Pattern,Pattern
+2109,2771,Purse,Type,Type
+2110,2771,Coating Canvas,Fabric Type,Fabric Type
+2111,2771,Woman,Department,Department
+2112,2781,Chanel,Brand,Brand
+2113,2781,Beige,Color,Color
+2114,2781,Leather,Material,Material
+2115,2781,Handbag,Type,Type
+2116,2791,ladies,Department,Department
+2117,2791,clutch,Type,Type
+2118,2791,clutch,Type,Type
+2119,2791,purse,Type,Type
+2120,2791,woven,Fabric Type,Fabric Type
+2121,2791,sea grass island,Pattern,
+2122,2791,silk,Material,
+2123,2791,flowers,Pattern,
+2124,2791,clutch,Type,Type
+2125,2791,clutch,Type,Type
+2126,2801,Fendi,Brand,Brand
+2127,2801,Black,Color,Color
+2128,2801,Mesh,Fabric Type,Fabric Type
+2129,2801,FF Logo,Accents,Accents
+2130,2801,Tote,Type,Type
+2131,2801,Bag,Type,Type
+2132,2811,Louis Vuitton,Brand,Brand
+2133,2811,Louis Vuitton,Brand,Brand
+2134,2811,Bags,Type,Type
+2135,2811,Louis Vuitton,Brand,Brand
+2136,2811,Louis Vuitton,Brand,Brand
+2137,2811,Keepall,Product Line,Product Line
+2138,2811,55,Model,Model
+2139,2811,Damier,Product Line,Product Line
+2140,2811,Graphite,Color,Color
+2141,2811,Duffle,Type,Type
+2142,2811,Bag,Type,Type
+2143,2821,Hermes,Brand,Brand
+2144,2821,Wallet,Type,Type
+2145,2821,Purse,Type,Type
+2146,2821,Bifold,Style,Style
+2147,2821,Fourre Tout,Product Line,Product Line
+2148,2821,Woman unisex,Department,
+2149,2831,GUCCI,Brand,Brand
+2150,2831,BAMBOO,Product Line,Product Line
+2151,2831,Handbag,Type,Type
+2152,2831,Leather,Material,Material
+2153,2841,Faux Leather,Material,Material
+2154,2841,GRAY,Color,Color
+2155,2841,Zippered,Closure,Closure
+2156,2841,Envelope,Type,Type
+2157,2841,Chain,Handle/Strap Material,Handle/Strap Material
+2158,2841,Crossbody,Type,Type
+2159,2841,Clutch,Type,Type
+2160,2841,Purse,Type,Type
+2161,2841,Bag,Type,Type
+2162,2851,B. Makowsky,Brand,Brand
+2163,2851,Glove leather,Material,
+2164,2851,Convertible,Features,Features
+2165,2851,Hobo,Type,Type
+2166,2851,Gringe,Accents,No Tag
+2167,2851,Chain,Handle/Strap Material,Handle/Strap Material
+2168,2851,Pink,Color,Color
+2169,2861,Chanel,Brand,Brand
+2170,2861,CC logo,Accents,Accents
+2171,2861,Caviar,Product Line,Product Line
+2172,2861,Tote,Type,Type
+2173,2861,Bag,Type,Type
+2174,2861,Black,Color,Color
+2175,2871,Balenciaga,Brand,Brand
+2176,2871,Hand Bag,Type,Type
+2177,2871,The,Model,Model
+2178,2871,City,Product Line,Product Line
+2179,2871,Red,Color,Color
+2180,2871,Leather,Material,Material
+2181,2881,KATE SPADE,Brand,Brand
+2182,2881,LOLA AVENUE LIA,Model,Model
+2183,2881,Leather,Material,Material
+2184,2881,Crossbody,Type,Type
+2185,2881,Satchel,Type,Type
+2186,2881,Tote,Type,Type
+2187,2881,handbag,Type,Type
+2188,2881,CUBANELL,Color,No Tag
+2189,2891,BURBERRY,Brand,Brand
+2190,2891,Small,Size,Size
+2191,2891,Leah,Model,Model
+2192,2891,Shoulder,Type,Type
+2193,2891,Bag,Type,Type
+2194,2891,Clutch,Type,Type
+2195,2891,check,Pattern,
+2196,2901,Jonathan Adler + Clinique,Brand,
+2197,2901,Geometric,Pattern,Pattern
+2198,2901,Pom Pom,Pattern,Accents
+2199,2901,Large,Size,Size
+2200,2901,Tote,Type,Type
+2201,2901,Bag,Type,Type
+2202,2901,Bag,Type,Type
+2203,2901,Beach,Occasion,Occasion
+2204,2901,Bag,Type,Type
+2205,2901,Bag,Type,Type
+2206,2901,Purse,Type,Type
+2207,2911,Susan Winget,Brand,Brand
+2208,2911,Book,Type,Type
+2209,2911,Bag,Type,Type
+2210,2911,Tote,Type,Type
+2211,2911,Red,Color,Color
+2212,2911,Schoolhouse,Occasion,Pattern
+2213,2921,VERA BRADLEY,Brand,Brand
+2214,2921,KNOT,Accents,Accents
+2215,2921,JUST A CLUTCH,Model,Model
+2216,2921,BERRY,Model,
+2217,2921,PAISLEY,Pattern,Pattern
+2218,2921,HANDBAG,Type,Type
+2219,2931,CHANEL,Brand,Brand
+2220,2931,A03571,MPN,No Tag
+2221,2931,CC Mark,Accents,Brand
+2222,2931,Matelasse,Pattern,Pattern
+2223,2931,Chain,Handle/Strap Material,Handle/Strap Material
+2224,2931,Shoulder,Type,Type
+2225,2931,Bag,Type,Type
+2226,2931,Lambskin Leather,Material,Material
+2227,2931,Black,Color,Color
+2228,2931,gold,Color,Color
+2229,2941,Chanel,Brand,Brand
+2230,2941,19,Model,Model
+2231,2941,Handbag,Type,Type
+2232,2941,21K,Hardware Material,Model
+2233,2941,White,Color,Color
+2234,2941,Black,Color,Color
+2235,2951,Western Horse,Style,
+2236,2951,Handbag,Type,Type
+2237,2951,Feather,Accents,
+2238,2951,Tassel,Accents,
+2239,2951,Conceal Carry,Product Line,Product Line
+2240,2951,Country,Style,No Tag
+2241,2951,Tote,Type,Type
+2242,2951,Purse,Type,Type
+2243,2951,Wallet,Type,Type
+2244,2961,Disney,Brand,Brand
+2245,2961,Vera Bradley,Brand,Brand
+2246,2961,Garden,Pattern,Obscure
+2247,2961,Wristlet,Handle Style,Handle Style
+2248,2961,Cosmetic,Type,Type
+2249,2961,Bag,Type,Type
+2250,2971,Derun,Brand,Brand
+2251,2971,Blue,Color,Color
+2252,2971,Jean,Model,Fabric Type
+2253,2971,Satchel,Type,Type
+2254,2971,Purse,Type,Type
+2255,2981,Prada,Brand,Brand
+2256,2981,Purse,Type,Type
+2257,2981,Black,Color,Color
+2258,2981,Black,Color,Color
+2259,2981,Satin,Material,Material
+2260,2981,Evening,Occasion,Occasion
+2261,2981,Bag,Type,Type
+2262,2981,Black,Color,Color
+2263,2981,Black,Color,Color
+2264,2981,Beaded Dangling,Accents,Accents
+2265,2981,S,Size,Size
+2266,2991,Khalo,Type,Model
+2267,2991,Cross Over,Type,
+2268,2991,bag,Type,Type
+2269,3001,Gucci x Balenciaga,Product Line,Product Line
+2270,3001,Womens,Department,Department
+2271,3001,The Hacker Project,Model,Model
+2272,3001,Small,Size,Size
+2273,3001,GG Marmont,Product Line,Product Line
+2274,3001,Handbag,Type,Type
+2275,3001,Black,Color,Color
+2276,3011,LOUIS VUITTON,Brand,Brand
+2277,3011,Damier,Product Line,Product Line
+2278,3011,Wine,Color,
+2279,3011,carrier,Type,
+2280,3011,Bottle case,Type,Features
+2281,3011,Hand Bag,Type,Type
+2282,3011,DamierCanvas,Product Line,No Tag
+2283,3021,LOUIS VUITTON,Brand,Brand
+2284,3021,Speedy 30,Model,Model
+2285,3021,Travel,Occasion,Occasion
+2286,3021,Hand Bag,Type,Type
+2287,3021,Monogram,Pattern,Pattern
+2288,3021,Leather,Material,Material
+2289,3021,Brown,Color,Color
+2290,3021,M41526,MPN,MPN
+2291,3031,Gucci,Brand,Brand
+2292,3031,Cosmetic,Type,Type
+2293,3031,Case,Type,Obscure
+2294,3031,Printed,Features,Features
+2295,3031,GG,Brand,Brand
+2296,3031,Coated Canvas,Fabric Type,Fabric Type
+2297,3041,VALENTINO GARAVANI,Brand,Brand
+2298,3041,Rockstud,Accents,Accents
+2299,3041,VA VA VOOM,Model,Model
+2300,3041,clutch,Type,Type
+2301,3041,bag,Type,Type
+2302,3041,Water,Color,Color
+2303,3041,Rose,Color,Color
+2304,3041,Pink,Color,Color
+2305,3051,Crossbody,Type,Type
+2306,3051,Organizer,Type,Type
+2307,3051,Bag,Type,Type
+2308,3051,Purse,Type,Type
+2309,3051,Black,Color,Color
+2310,3051,Brown,Color,Color
+2311,3051,"8 "" x","Measurement, dimension",
+2312,3051,Faux Leather,Material,Material
+2313,3061,Dooney & Bourke,Brand,Brand
+2314,3061,Saffiano,Material,Material
+2315,3061,Lexington,Model,Model
+2316,3071,Wayuu,Brand,Brand
+2317,3071,Mochila,Model,Type
+2318,3071,Colombian,Country/Region of Manufacture,Country/Region of Manufacture
+2319,3071,Bag,Type,Type
+2320,3071,Large,Size,Size
+2321,3071,Fall Floral,Pattern,Pattern
+2322,3081,BURBERRY LONDON,Brand,Brand
+2323,3081,BLUE LABEL,Product Line,Product Line
+2324,3081,Nylon,Material,Material
+2325,3081,Canvas,Fabric Type,Fabric Type
+2326,3081,Leather,Material,Material
+2327,3081,White,Color,Color
+2328,3081,Red,Color,Color
+2329,3081,Tote,Type,Type
+2330,3081,Bag,Type,Type
+2331,3091,LOUIS VUITTON,Brand,Brand
+2332,3091,M42397,MPN,MPN
+2333,3091,Handbag,Type,Type
+2334,3091,Speedy,Model,
+2335,3091,Bandolier 20,Model,
+2336,3091,Monogram,Pattern,Pattern
+2337,3091,EMPREINTE,Model,
+2338,3091,Empreinte,Accents,
+2339,3101,Cross Body,Type,Type
+2340,3101,Bag,Type,Type
+2341,3101,Handbag,Type,Type
+2342,3101,Silver,Color,Color
+2343,3101,Metallic,Color,Color
+2344,3101,chain,Handle/Strap Material,Handle/Strap Material
+2345,3101,strap,Handle Style,Handle Style
+2346,3111,Brahmin,Brand,Brand
+2347,3111,Mini,Size,Size
+2348,3111,Asher,Model,Model
+2349,3111,Satchel,Type,Type
+2350,3111,Shoulder,Type,Type
+2351,3111,Bag,Type,Type
+2352,3111,Wallet,Type,Type
+2353,3111,Sterling,Color,Color
+2354,3111,Tri-Color,Color,No Tag
+2355,3121,Halloween,Theme,Theme
+2356,3121,Handbag,Type,Type
+2357,3121,Purse,Type,Type
+2358,3121,Michael Myers Pumpkin,Character,
+2359,3121,Jack O Lantern,Theme,
+2360,3121,Orange,Color,Color
+2361,3131,GUCCI,Brand,Brand
+2362,3131,chain,Handle/Strap Material,Obscure
+2363,3131,shoulder strap,Handle Style,
+2364,3131,Thiara,Model,Obscure
+2365,3131,bag,Type,Obscure
+2366,3141,Fendi,Brand,
+2367,3141,Fila,Model,
+2368,3141,Fira,Model,Model
+2369,3141,2Way,Features,Features
+2370,3141,Bag,Type,Type
+2371,3151,HERMES,Brand,Brand
+2372,3151,Kelly,Product Line,Product Line
+2373,3151,28,Model,Model
+2374,3151,Sellier Rouge H,Model,
+2375,3151,Red,Color,Color
+2376,3151,Alligator,Material,Material
+2377,3161,Louis Vuitton,Brand,Brand
+2378,3161,TIVOLI GM,Model,Model
+2379,3161,Monogram,Pattern,Pattern
+2380,3161,Brown,Color,Color
+2381,3161,Canvas,Fabric Type,Fabric Type
+2382,3161,Leather,Material,Material
+2383,3161,shoulder,Type,Type
+2384,3161,bag,Type,Type
+2385,3171,Louis Vuitton,Brand,Brand
+2386,3171,Cabas MM,Model,Model
+2387,3171,Monogram,Pattern,Pattern
+2388,3171,Sabbia,Model,Material
+2389,3171,Handbag,Type,Type
+2390,3171,Beige,Color,Color
+2391,3171,M93495,MPN,MPN
+2392,3181,Vera Bradley,Brand,Brand
+2393,3181,Travel,Occasion,Occasion
+2394,3181,Travel,Occasion,Occasion
+2395,3181,Tote,Type,Type
+2396,3181,Bag,Type,Type
+2397,3181,Bag,Type,Type
+2398,3181,Travel,Occasion,Occasion
+2399,3181,Travel,Occasion,Occasion
+2400,3181,Bag,Type,Type
+2401,3181,Bag,Type,Type
+2402,3181,Fanfare,Theme,Model
+2403,3181,Zip,Closure,Closure
+2404,3191,MARC,Product Line,Product Line
+2405,3191,Marc Jacobs,Brand,Brand
+2406,3191,Sally,Model,Model
+2407,3191,Black,Color,Color
+2408,3191,Leather,Material,Material
+2409,3191,Teal,Color,Color
+2410,3191,Crossbody,Type,Type
+2411,3191,Purse,Type,Type
+2412,3191,Bag,Type,Type
+2413,3201,Kate Spade,Brand,Brand
+2414,3201,georgie,Model,Obscure
+2415,3211,Bottega Veneta,Brand,Brand
+2416,3211,Intrecciato,Pattern,Pattern
+2417,3211,Leather,Material,Material
+2418,3211,Women 's,Department,Department
+2419,3211,Shoulder,Type,Type
+2420,3211,Bag,Type,Type
+2421,3211,Red,Color,Color
+2422,3211,Pink,Color,Color
+2423,3221,Louis Vuitton,Brand,Brand
+2424,3221,Monogram,Pattern,Pattern
+2425,3221,Cartouchiere GM,Model,Model
+2426,3221,Shoulder,Type,Type
+2427,3221,Cross Body,Type,Type
+2428,3221,Bag,Type,Type
+2429,3221,B1207O,MPN,No Tag
+2430,3231,Balenciaga,Brand,Brand
+2431,3231,Everyday,Occasion,Occasion
+2432,3231,Crossbody,Type,Type
+2433,3231,Bag,Type,Type
+2434,3231,XS,Size,No Tag
+2435,3241,Tory Burch,Brand,Brand
+2436,3241,Britten,Model,Product Line
+2437,3241,Large,Size,Size
+2438,3241,Pebble,Pattern,Pattern
+2439,3241,Leather,Material,Material
+2440,3241,Crossbody,Type,Type
+2441,3241,Clutch,Type,Type
+2442,3241,Handbag,Type,Type
+2443,3241,Purse,Type,Type
+2444,3251,Prada,Brand,Brand
+2445,3251,Womens,Department,Department
+2446,3251,Leather,Trim Material,Handle/Strap Material
+2447,3251,Nylon,Material,Material
+2448,3251,Zip,Closure,Closure
+2449,3251,Crossbody,Type,Type
+2450,3251,Bag,Type,Type
+2451,3251,Blue,Color,Color
+2452,3251,Small,Size,Size
+2453,3251,Handbag,Type,Type
+2454,3261,LOUIS VUITTON,Brand,Brand
+2455,3261,Epi,Material,Material
+2456,3261,Keepall,Product Line,Product Line
+2457,3261,50,Model,Model
+2458,3261,Boston,Type,Type
+2459,3261,Bag,Type,Type
+2460,3261,Black,Color,Color
+2461,3261,M42962,MPN,MPN
+2462,3261,LV,Brand,Brand
+2463,3271,GVB,Brand,No Tag
+2464,3271,Leather Cowhide,Material,Material
+2465,3271,Brown,Color,Color
+2466,3271,Cross body,Type,Type
+2467,3271,Shoulder,Type,Type
+2468,3271,Satchel,Type,Type
+2469,3271,Bag,Type,Type
+2470,3281,Bohemian,Style,Style
+2471,3281,Crochet,Fabric Type,
+2472,3281,Knit,Fabric Type,
+2473,3281,Purse,Type,Type
+2474,3281,Handbag,Type,Type
+2475,3281,yarn,Material,Material
+2476,3281,multicolor,Color,Color
+2477,3291,FRINGE,Accents,
+2478,3291,SEE-THRU,Accents,
+2479,3291,HANDBAG,Type,Type
+2480,3301,Chiara Ferretti,Brand,Brand
+2481,3301,Italy,Country/Region of Manufacture,Country/Region of Manufacture
+2482,3301,Leather,Material,Material
+2483,3301,Shoulder,Type,Type
+2484,3301,Bag,Type,Type
+2485,3301,Mustard,Color,Color
+2486,3301,Yellow,Color,Color
+2487,3311,Scripture Bible Verse,Theme,Theme
+2488,3311,Western,Style,Brand
+2489,3311,Purse,Type,Type
+2490,3311,Country,Style,Theme
+2491,3311,Handbag,Type,Type
+2492,3311,Women,Department,Department
+2493,3311,Shoulder,Type,Type
+2494,3311,Bag,Type,Type
+2495,3311,Wallet,Type,Type
+2496,3321,Louis Vuitton,Brand,Brand
+2497,3321,Alma,Model,Model
+2498,3321,Handbag,Type,Type
+2499,3321,Epi Leather,Material,Material
+2500,3321,PM,Model,Model
+2501,3331,Gucci,Brand,Brand
+2502,3331,Handbag Bag,Type,Type
+2503,3331,Bamboo,Product Line,Product Line
+2504,3331,Razor,Style,Style
+2505,3331,Diana,Model,Model
+2506,3331,White,Color,Color
+2507,3341,CHANEL,Brand,Brand
+2508,3341,novelty,Theme,Theme
+2509,3341,drawstring,Closure,Closure
+2510,3341,back border,Style,
+2511,3341,shoulder,Type,Type
+2512,3341,ladies ',Department,
+2513,3341,bag,Type,Type
+2514,3351,Gucci,Brand,Brand
+2515,3351,Black,Color,Color
+2516,3351,Gg,Brand,Brand
+2517,3351,Canvas,Fabric Type,Fabric Type
+2518,3351,Tote,Type,Type
+2519,3351,Women 's,Department,Department
+2520,3361,Louis Vuitton,Brand,Brand
+2521,3361,Upton,Model,Model
+2522,3361,Bag,Type,Type
+2523,3361,Monogram,Pattern,Pattern
+2524,3361,Laser,Features,Features
+2525,3361,Leather,Material,Material
+2526,3371,Coach,Brand,Brand
+2527,3371,Signature,Pattern,Pattern
+2528,3371,Brown,Color,Color
+2529,3371,Black,Color,Color
+2530,3371,Leather,Material,Material
+2531,3371,Shoulder,Type,Type
+2532,3371,Bag,Type,Type
+2533,3381,Louis Vuitton,Brand,Brand
+2534,3381,handbag,Type,Type
+2535,3381,Artsy MN,Model,Model
+2536,3381,M40429,MPN,MPN
+2537,3391,Gucci,Brand,Brand
+2538,3391,GG Marmont,Product Line,Product Line
+2539,3391,Small,Size,Size
+2540,3391,Color-Block,Pattern,Pattern
+2541,3391,Quilted,Features,Accents
+2542,3391,Leather,Material,Material
+2543,3391,Shoulder,Type,Type
+2544,3391,Bag,Type,Type
+2545,3401,7038U,MPN,No Tag
+2546,3401,BAG,Type,Type
+2547,3401,POCHETTE,Brand,Product Line
+2548,3401,portafoglio donna,Model,
+2549,3401,wallet,Type,Type
+2550,3401,woman,Department,Department
+2551,3411,Gucci,Brand,Brand
+2552,3411,Brown,Color,Color
+2553,3411,Crossbody,Type,Type
+2554,3411,Clutch,Type,Type
+2555,3411,8in,"Measurement, dimension","Measurement, dimension"
+2556,3411,6in,"Measurement, dimension","Measurement, dimension"
+2557,3411,2in,"Measurement, dimension","Measurement, dimension"
+2558,3421,FURLA,Brand,Brand
+2559,3421,Black,Color,Color
+2560,3421,White,Color,Color
+2561,3421,Quilted,Accents,Accents
+2562,3421,Leather,Material,Material
+2563,3421,Small,Size,Size
+2564,3421,Tribe,Model,Theme
+2565,3421,Tote,Type,Type
+2566,3421,Bag,Type,Type
+2567,3421,Italy,Country/Region of Manufacture,Country/Region of Manufacture
+2568,3431,PRADA,Brand,Brand
+2569,3431,Logo,Accents,Accents
+2570,3431,Tote,Type,Type
+2571,3431,Bag,Type,Type
+2572,3431,Handbag,Type,Type
+2573,3431,Heart,Pattern,Accents
+2574,3431,Monogram,Pattern,Pattern
+2575,3431,Nylon,Material,Material
+2576,3431,White,Color,Color
+2577,3431,Red,Color,Color
+2578,3441,Chanel,Brand,
+2579,3441,Karl Lagerfeld,Product Line,
+2580,3441,Le Mobile Art,Model,
+2581,3441,Tote,Type,Type
+2582,3441,Bag,Type,Type
+2583,3451,GUCCI,Brand,Brand
+2584,3451,Bamboo,Product Line,Product Line
+2585,3451,Hand,Type,Type
+2586,3451,Tote,Type,Type
+2587,3451,Bag,Type,Type
+2588,3451,Leather,Material,Material
+2589,3451,Orange,Color,Color
+2590,3461,GUESS,Brand,Brand
+2591,3461,Classique,Model,Model
+2592,3461,Large,Size,Size
+2593,3461,Bag,Type,Type
+2594,3461,Purse,Type,Type
+2595,3461,Satchel,Type,Type
+2596,3461,Bow G Logo,Accents,Accents
+2597,3471,Louis Vuitton,Brand,Brand
+2598,3471,Scarf,Type,Obscure
+2599,3481,❤,Brand,No Tag
+2600,3481,❤,Brand,No Tag
+2601,3481,BRAHMIN,Brand,Brand
+2602,3481,DUXBURY,Product Line,Product Line
+2603,3481,SATCHEL,Type,Type
+2604,3481,BLACK,Color,Color
+2605,3481,SAINT GERMAINE,Model,Model
+2606,3481,FLORAL,Pattern,Pattern
+2607,3481,DAMASK,Pattern,Pattern
+2608,3481,TOOLED,Accents,Accents
+2609,3481,LEATHER,Material,Material
+2610,3481,❤,Brand,No Tag
+2611,3481,❤,Brand,No Tag
+2612,3491,BALENCIAGA,Brand,Brand
+2613,3491,Bazar,Model,Model
+2614,3491,Shopper,Type,Type
+2615,3491,Hand,Type,Type
+2616,3491,Tote,Type,Type
+2617,3491,Bag,Type,Type
+2618,3491,Multi,Color,Color
+2619,3491,Color,Color,Color
+2620,3501,TAWI,Brand,No Tag
+2621,3501,Bolsa Frida Kahlo,Model,
+2622,3501,Shoulder,Type,Type
+2623,3501,Bag,Type,Type
+2624,3501,Purse,Type,Type
+2625,3501,Chain,Handle/Strap Material,Handle/Strap Material
+2626,3501,Strap,Handle Style,Handle Style
+2627,3501,MX,Color,No Tag
+2628,3511,LOUIS VUITTON,Brand,Brand
+2629,3511,Damier,Product Line,Product Line
+2630,3511,Ebene,Color,Color
+2631,3511,Pochette Accessoires,Model,Model
+2632,3511,Pouch,Type,Type
+2633,3511,N41206,MPN,MPN
+2634,3521,Givenchy,Brand,Brand
+2635,3521,Pandora,Model,Model
+2636,3521,Continental,Style,Style
+2637,3521,Wallet,Type,Type
+2638,3521,Bag,Type,Type
+2639,3521,Zip,Closure,Closure
+2640,3521,Pebbled,Pattern,Pattern
+2641,3521,Leather,Material,Material
+2642,3521,Clutch,Type,Type
+2643,3531,GUCCI,Brand,Brand
+2644,3531,GOLD,Color,Color
+2645,3531,D RING,Accents,Accents
+2646,3531,CANVAS,Fabric Type,Fabric Type
+2647,3531,HOBO,Type,Type
+2648,3531,BAG,Type,Type
+2649,3541,Snake Leather,Material,Material
+2650,3541,Handbag,Type,Type
+2651,3541,Hobo,Type,Type
+2652,3541,Purse,Type,Type
+2653,3541,Large,Size,Size
+2654,3541,String,Accents,Handle/Strap Material
+2655,3541,Shiny,Accents,Accents
+2656,3541,Orange,Color,Color
+2657,3551,Louis Vuitton,Brand,Brand
+2658,3551,Epi,Material,Material
+2659,3551,Saint Jacques,Model,
+2660,3551,Hand Bag,Type,Type
+2661,3551,Blue,Color,Color
+2662,3551,M52275,MPN,MPN
+2663,3551,LV,Brand,Brand
+2664,3561,Christian Dior,Brand,Brand
+2665,3561,Tie Dye,Pattern,Pattern
+2666,3561,Saddle,Type,Type
+2667,3561,Bag,Type,Type
+2668,3561,Embroidered,Accents,Accents
+2669,3561,Canvas,Fabric Type,Fabric Type
+2670,3561,Medium,Size,Size
+2671,3571,Louis Vuitton,Brand,Brand
+2672,3571,PETIT MARCEAU,Model,Model
+2673,3571,Shoulder,Type,Type
+2674,3571,Bag,Type,Type
+2675,3571,Purse,Type,Type
+2676,3571,Monogram,Pattern,Pattern
+2677,3571,LV,Brand,Brand
+2678,3571,A2113C,MPN,No Tag
+2679,3581,Louis Vuitton,Brand,Brand
+2680,3581,Alma bb,Model,Model
+2681,3581,vernis,Color,Product Line
+2682,3591,Gucci,Brand,Brand
+2683,3591,Shoulder,Type,Type
+2684,3591,bag,Type,Type
+2685,3591,Tote,Type,Type
+2686,3591,GG,Brand,Brand
+2687,3591,Canvas,Fabric Type,Fabric Type
+2688,3591,Monogram,Pattern,Pattern
+2689,3591,Brown,Color,Color
+2690,3591,Women,Department,Department
+2691,3591,Purse,Type,Type
+2692,3591,G0462,MPN,No Tag
+2693,3601,BROMEN,Department,Brand
+2694,3601,Backpack,Type,Type
+2695,3601,Backpack,Type,Type
+2696,3601,Purse,Type,Type
+2697,3601,Women,Department,Department
+2698,3601,Leather,Material,Material
+2699,3601,Anti-theft,Features,Features
+2700,3601,Travel,Occasion,Occasion
+2701,3601,Backpack,Type,Type
+2702,3601,Backpack,Type,Type
+2703,3611,Holiday,Occasion,No Tag
+2704,3611,Delvaux,Model,Brand
+2705,3611,Bucket,Type,Type
+2706,3611,Bag,Type,Type
+2707,3611,Cognac,Color,Color
+2708,3611,Dark,Color,Color
+2709,3611,Brown,Color,Color
+2710,3611,Leather,Material,Material
+2711,3621,Dooney & Bourke,Brand,Brand
+2712,3621,R147,MPN,No Tag
+2713,3621,Bone,Color,Color
+2714,3621,Carpet,Fabric Type,Fabric Type
+2715,3621,Bag,Type,Type
+2716,3621,Bag,Type,Type
+2717,3621,Shoulder,Type,Type
+2718,3621,Bag,Type,Type
+2719,3621,Bag,Type,Type
+2720,3621,Purse,Type,Type
+2721,3621,17290S S183,MPN,
+2722,3631,GUCCI,Brand,Brand
+2723,3631,Ophidia,Model,Model
+2724,3631,Medium,Size,Size
+2725,3631,GG Supreme,Product Line,Product Line
+2726,3631,Canvas,Fabric Type,Fabric Type
+2727,3631,Tote,Type,Type
+2728,3631,Bag,Type,Type
+2729,3631,Beige,Color,Color
+2730,3641,LOUIS VUITTON,Brand,Brand
+2731,3641,LV,Brand,Brand
+2732,3641,Logo,Accents,Accents
+2733,3641,Alma,Model,Model
+2734,3641,Hand Bag,Type,Type
+2735,3641,Monogram,Pattern,Pattern
+2736,3641,Leather,Material,Material
+2737,3641,Brown,Color,Color
+2738,3641,France,Country/Region of Manufacture,Country/Region of Manufacture
+2739,3641,M51130 71ML225,MPN,
+2740,3651,Kate Spade,Brand,Brand
+2741,3651,Zibbi,Model,Model
+2742,3651,Double Zip,Closure,Closure
+2743,3651,Small,Size,Size
+2744,3651,Crossbody,Type,Type
+2745,3651,Nightcap,Type,Color
+2746,3661,LOUIS VUITTON,Brand,Brand
+2747,3661,Babylone,Model,Model
+2748,3661,Monogram,Pattern,Pattern
+2749,3661,Shoulder,Type,Type
+2750,3661,Tote,Type,Type
+2751,3661,Bag,Type,Type
+2752,3661,Purse,Type,Type
+2753,3671,Women,Department,Department
+2754,3671,leather,Material,Material
+2755,3671,Backpacks,Type,Type
+2756,3671,Female,Department,Department
+2757,3671,Shoulder,Type,Type
+2758,3671,Bag,Type,Type
+2759,3671,Sac a Dos,Model,Model
+2760,3681,GOYARD,Brand,Brand
+2761,3681,Saint Louis GM,Product Line,Product Line
+2762,3681,Tote,Type,Type
+2763,3681,Bag,Type,Type
+2764,3681,Purple,Color,Color
+2765,3681,PVC Leather,Material,Material
+2766,3681,Blue,Color,Color
+2767,3681,Pouch,Type,Type
+2768,3691,Tory Burch,Brand,Brand
+2769,3691,Kensington,Model,Model
+2770,3691,Tote,Type,Type
+2771,3691,Bag,Type,Type
+2772,3691,Multi,Color,Color
+2773,3691,Color,Color,Color
+2774,3691,Flowers,Pattern,Pattern
+2775,3701,Zumba,Brand,Brand
+2776,3701,Hello,Model,Model
+2777,3701,Crossbody,Type,Type
+2778,3701,Bag,Type,Type
+2779,3701,Tote,Type,Type
+2780,3711,GUCCI,Brand,Brand
+2781,3711,PIGNA PINEAPPLE,Model,
+2782,3711,LEATHER,Material,Material
+2783,3711,LINEN CANVAS,Fabric Type,
+2784,3711,BAG,Type,Type
+2785,3711,ITALY,Country/Region of Manufacture,Country/Region of Manufacture
+2786,3721,PRADA,Brand,Brand
+2787,3721,Black,Color,Color
+2788,3721,Nylon,Material,Material
+2789,3721,Leather,Handle/Strap Material,Trim Material
+2790,3721,Backpack,Type,Type
+2791,3721,Bag,Type,Type
+2792,3721,Purse,Type,Type
+2793,3731,CHANEL,Brand,Brand
+2794,3731,Quilted,Accents,Accents
+2795,3731,Matelasse,Pattern,Pattern
+2796,3731,CC Logo,Accents,Accents
+2797,3731,Caviar,Product Line,Product Line
+2798,3731,Skin,Material,Material
+2799,3731,Chain,Handle/Strap Material,Handle/Strap Material
+2800,3731,Shoulder,Type,Type
+2801,3731,Bag,Type,Type
+2802,3731,Black,Color,Color
+2803,3741,KATHERINE WARD,Brand,Brand
+2804,3741,Goat Fur,Material,Material
+2805,3741,Brown,Color,Color
+2806,3741,Leather,Material,Material
+2807,3741,Shoulder,Type,Type
+2808,3741,Bag,Type,Type
+2809,3751,Prada,Brand,Brand
+2810,3751,Bag,Type,Type
+2811,3761,LOUIS VUITTON,Brand,Brand
+2812,3761,Saumur 35,Model,Model
+2813,3761,Shoulder,Type,Type
+2814,3761,Bag,Type,Type
+2815,3761,Monogram,Pattern,Pattern
+2816,3761,Leather,Material,Material
+2817,3761,France,Country/Region of Manufacture,Country/Region of Manufacture
+2818,3761,M42254 85SD238,MPN,
+2819,3771,CHANEL,Brand,Brand
+2820,3771,CC,Brand,Brand
+2821,3771,Quilted,Features,Accents
+2822,3771,Chain,Handle/Strap Material,Handle/Strap Material
+2823,3771,Shoulder,Type,Type
+2824,3771,Tote,Type,Type
+2825,3771,Bag,Type,Type
+2826,3771,1449180,MPN,No Tag
+2827,3771,Purse,Type,Type
+2828,3771,Black,Color,Color
+2829,3771,Lambskin,Material,Material
+2830,3781,OLIVIA + JOY JULEP,Brand,Brand
+2831,3781,Hot Pink,Color,
+2832,3781,Leather,Material,Material
+2833,3781,Satchel,Type,Type
+2834,3781,Shoulder,Type,Type
+2835,3781,Bag,Type,Type
+2836,3791,CHRISTIAN DIOR,Brand,Brand
+2837,3791,Lady Dior,Product Line,Product Line
+2838,3791,Medium,Size,Size
+2839,3791,White,Color,Color
+2840,3791,Patent,Material,Material
+2841,3791,Bag,Type,Type
+2842,3791,Silver,Color,Color
+2843,3801,Steve Madden,Brand,Brand
+2844,3801,Black,Color,Color
+2845,3801,Vegan,Features,
+2846,3801,Quilted,Accents,
+2847,3801,Belt,Type,Type
+2848,3801,Bag,Type,Type
+2849,3811,Dasein,Brand,Brand
+2850,3811,Women,Department,Department
+2851,3811,Faux Leather,Material,Material
+2852,3811,Padlock,Closure,Closure
+2853,3811,Tote,Type,Type
+2854,3811,Shoulder,Type,Type
+2855,3811,Bag,Type,Type
+2856,3811,Handbag,Type,Type
+2857,3811,Satchel,Type,Type
+2858,3821,FENDI,Brand,Brand
+2859,3821,WOVEN,Fabric Type,Fabric Type
+2860,3821,LEATHER,Material,Material
+2861,3821,FLAP,Type,Type
+2862,3821,SHOULDER,Type,Type
+2863,3821,CLUTCH,Type,Type
+2864,3821,BAG,Type,Type
+2865,3821,METAL,Color,Hardware Material
+2866,3821,LOGO,Accents,Accents
+2867,3821,SNAP,Closure,Closure
+2868,3831,Printed,Features,Features
+2869,3831,Waterproof,Features,Features
+2870,3831,Nylon,Material,Material
+2871,3831,Ladies,Department,Department
+2872,3831,Messenger,Type,Type
+2873,3831,Bag,Type,Type
+2874,3841,Christian Dior,Brand,Brand
+2875,3841,Green,Color,Color
+2876,3841,OSTRICH Leather,Material,Material
+2877,3841,Handbag,Type,Type
+2878,3851,Gucci,Brand,Brand
+2879,3851,Women 's,Department,Department
+2880,3851,Soho,Product Line,Model
+2881,3851,Nubuck Leather,Material,Material
+2882,3851,Chain,Handle/Strap Material,Handle/Strap Material
+2883,3851,Shoulder,Type,Type
+2884,3851,Bag,Type,Type
+2885,3851,Grey,Color,Color
+2886,3861,Louis Vuitton,Brand,Brand
+2887,3861,Brittany,Model,Model
+2888,3861,Damier,Product Line,Product Line
+2889,3861,Ebene,Color,Color
+2890,3861,Brown,Color,Color
+2891,3861,Dusty,Color,Color
+2892,3861,Rose,Color,Color
+2893,3861,Shoulder,Type,Type
+2894,3861,Bag,Type,Type
+2895,3861,crossbod,Type,Handle Style
+2896,3871,Gucci,Brand,Brand
+2897,3871,Bamboo,Product Line,Product Line
+2898,3871,Bag,Type,Type
+2899,3881,mexican,Country/Region of Manufacture,Theme
+2900,3881,lottery,Accents,Obscure
+2901,3881,Tote,Type,Type
+2902,3881,Bag,Type,Type
+2903,3881,Bolsa De Loteria,Type,
+2904,3891,Louis Vuitton,Brand,Brand
+2905,3891,Damier,Product Line,Product Line
+2906,3891,Ebene,Color,Color
+2907,3891,Clipper,Closure,Model
+2908,3901,CHANEL,Brand,Brand
+2909,3901,Cambon,Product Line,
+2910,3901,Quilted,Accents,Accents
+2911,3901,CC,Brand,Brand
+2912,3901,Cross Body,Type,Type
+2913,3901,Bag,Type,Type
+2914,3901,Purse,Type,Type
+2915,3901,Black,Color,Color
+2916,3901,Calfskin,Material,Material
+2917,3911,Montana West,Brand,Brand
+2918,3911,embroidery,Accents,Accents
+2919,3911,conceal carry,Pocket Type,Product Line
+2920,3911,gun,Type,No Tag
+2921,3911,handbag,Type,Type
+2922,3911,wallet,Type,Type
+2923,3911,grey,Color,Color
+2924,3921,CHANEL,Brand,Brand
+2925,3921,21S,Model,Model
+2926,3921,Classic,Model,Model
+2927,3921,Logo,Accents,Accents
+2928,3921,Mini,Size,Size
+2929,3921,Flap,Type,Type
+2930,3921,Pink,Color,Color
+2931,3921,Bag,Type,Type
+2932,3921,Unicorn,Color,No Tag
+2933,3931,Kate Spade,Brand,Brand
+2934,3931,Mikas Pond Phoenix,Model,Model
+2935,3931,Trifold,Features,Style
+2936,3931,Carryall,Type,Type
+2937,3931,Travel,Occasion,Occasion
+2938,3931,Wallet,Type,Type
+2939,3931,Blue,Color,Color
+2940,3931,hydrnga,Color,No Tag
+2941,3941,Women Girls,Department,Department
+2942,3941,Handbag,Type,Type
+2943,3941,Tote,Type,Type
+2944,3941,Shoulder,Type,Type
+2945,3941,Bag,Type,Type
+2946,3941,Bag,Type,Type
+2947,3941,Messenger,Type,Type
+2948,3941,Hobo,Type,Type
+2949,3941,Bag,Type,Type
+2950,3941,Bag,Type,Type
+2951,3941,Satchel,Type,Type
+2952,3951,B. MAKOWSKY,Brand,Brand
+2953,3951,Purple,Color,Color
+2954,3951,Pebbled,Pattern,Pattern
+2955,3951,Leather,Material,Material
+2956,3951,Hobo,Type,Type
+2957,3951,Cross Body,Type,
+2958,3951,Shoulder,Type,
+2959,3951,Bag,Type,Type
+2960,3951,Purse,Type,Type
+2961,3961,BLACK,Color,Color
+2962,3961,TAN,Color,Color
+2963,3961,SILVER,Color,Color
+2964,3961,BHW,Model,No Tag
+2965,3961,WESTERN STYLE,Style,
+2966,3961,RHINESTONE,Accents,
+2967,3961,CROSS,Type,
+2968,3961,PURSE,Type,Type
+2969,3961,TOTE,Type,Type
+2970,3971,CHANEL,Brand,Brand
+2971,3971,Mini,Size,Size
+2972,3971,Matelasse,Pattern,Pattern
+2973,3971,Chain,Handle/Strap Material,Handle/Strap Material
+2974,3971,Shoulder,Type,Type
+2975,3971,Bag,Type,Type
+2976,3971,Leather,Material,Material
+2977,3971,Black,Color,Color
+2978,3971,Purse,Type,Type
+2979,3981,Kate Spade,Brand,Brand
+2980,3981,Arya,Model,Model
+2981,3981,Black,Color,Color
+2982,3981,Packable,Features,Features
+2983,3981,Nylon,Material,Material
+2984,3981,Backpack,Type,Type
+2985,3981,WKRU6975,MPN,MPN
+2986,3991,Chanel,Brand,Brand
+2987,3991,Classic,Model,Model
+2988,3991,Beige,Color,Color
+2989,3991,Lambskin,Material,Material
+2990,3991,24K,Hardware Material,
+2991,3991,Gold,Color,
+2992,3991,Chain,Handle/Strap Material,Handle/Strap Material
+2993,3991,3 Way,Style,Features
+2994,3991,Full,Features,Closure
+2995,3991,Flap,Type,Type
+2996,3991,Small,Size,Size
+2997,3991,Bag,Type,Type
+2998,4001,GUCCI,Brand,Brand
+2999,4001,Pebbled,Pattern,Pattern
+3000,4001,Calfskin,Material,Material
+3001,4001,Medium,Size,Size
+3002,4001,Bamboo,Product Line,Product Line
+3003,4001,Daily,Occasion,Occasion
+3004,4001,Leather,Material,Material
+3005,4001,Top Handle,Handle Style,Handle Style
+3006,4001,Bag,Type,Type
+3007,4001,Pink,Color,Color
+3008,4011,Louis Vuitton,Brand,Brand
+3009,4011,Alma,Model,Model
+3010,4011,Monogram,Pattern,Pattern
+3011,4011,Medium,Size,Size
+3012,4011,Bag,Type,Type
+3013,4011,Brown,Color,Color
+3014,4011,Leather,Material,Material
+3015,4011,Tan,Color,Color
+3016,4011,Lock,Closure,Closure
+3017,4021,KATE SPADE,Brand,Brand
+3018,4021,LEILA,Model,Model
+3019,4021,FLAP,Type,Type
+3020,4021,MEDIUM,Size,Size
+3021,4021,LEATHER,Material,Material
+3022,4021,SATCHEL,Type,Type
+3023,4021,CROSSBODY,Type,
+3024,4021,SHOULDER,Type,
+3025,4021,BAG,Type,Type
+3026,4021,PURSE,Type,Type
+3027,4031,Louis Vuitton,Brand,Brand
+3028,4031,Shoulder,Type,Type
+3029,4031,Bag,Type,Type
+3030,4041,Louis Vuitton,Brand,Brand
+3031,4041,Alpha,Model,Model
+3032,4041,Messenger,Type,Type
+3033,4041,Bag,Type,Type
+3034,4041,Monogram,Pattern,Pattern
+3035,4041,Satellite,Model,No Tag
+3036,4041,Canvas,Fabric Type,Fabric Type
+3037,4051,COACH,Brand,Brand
+3038,4051,Women 's,Department,Department
+3039,4051,Leopard,Pattern,Pattern
+3040,4051,Ocelot Rhyder 24,Model,
+3041,4051,Satchel,Type,Type
+3042,4051,Wild Beast,Theme,
+3043,4051,Cross Body,Type,Type
+3044,4051,F36107,MPN,MPN
+3045,4061,LOUIS VUITTON,Brand,Brand
+3046,4061,Musette Salsa,Model,Model
+3047,4061,Short,Size,No Tag
+3048,4061,Shoulder,Type,Type
+3049,4061,Bag,Type,Type
+3050,4061,Monogram,Pattern,Pattern
+3051,4061,France,Country/Region of Manufacture,Country/Region of Manufacture
+3052,4061,M51258,MPN,MPN
+3053,4071,LOUIS VUITTON,Brand,Brand
+3054,4071,RIVERA MM,Model,Model
+3055,4071,HAND,Type,Type
+3056,4071,TOTE,Type,Type
+3057,4071,BAG,Type,Type
+3058,4071,PURSE,Type,Type
+3059,4071,DAMIER,Product Line,Product Line
+3060,4071,EBENE,Color,Color
+3061,4071,N41434,MPN,MPN
+3062,4081,CHANEL,Brand,Brand
+3063,4081,19,Model,Model
+3064,4081,Caramel,Color,Color
+3065,4081,Brown,Color,Color
+3066,4081,Long,Style,Style
+3067,4081,Flap,Type,Type
+3068,4081,Quilted,Features,Accents
+3069,4081,Wallet,Type,Type
+3070,4081,AP0955 B04852 NB356,MPN,
+3071,4091,CHANEL,Brand,Brand
+3072,4091,Cocomark,Product Line,Model
+3073,4091,Matrasse,Features,Features
+3074,4091,Double Flap,Type,Type
+3075,4091,Shoulder,Type,Type
+3076,4091,Bag,Type,Type
+3077,4101,Louis Vuitton,Brand,Brand
+3078,4101,Double Zip,Closure,Closure
+3079,4101,Pochette,Product Line,Product Line
+3080,4101,Bag,Type,Type
+3081,4101,Purse,Type,Type
+3082,4111,Michael Kors,Brand,Brand
+3083,4111,Tina,Model,Model
+3084,4111,Floral,Pattern,Pattern
+3085,4111,Navy,Color,Color
+3086,4111,Blue,Color,Color
+3087,4111,Leather,Material,Material
+3088,4111,XSmall,Size,Size
+3089,4111,Clutch,Type,Type
+3090,4111,Crossbody,Type,Type
+3091,4111,Bag,Type,Type
+3092,4121,VERA BRADLEY,Brand,Brand
+3093,4121,SMALL MINI,Size,Size
+3094,4121,SLING,Handle Style,Handle Style
+3095,4121,BACKPACK,Type,Type
+3096,4121,HERBOLOGY,Theme,Model
+3097,4121,HARRY POTTER,Character,Character
+3098,4131,By far,Brand,Brand
+3099,4131,mini,Size,Size
+3100,4131,amira,Model,Model
+3101,4131,bag,Type,Type
+3102,4131,PASTEL,Color,Color
+3103,4131,PINK,Color,Color
+3104,4141,Marc Jacobs,Brand,Brand
+3105,4141,Too Hot to Handle,Model,Model
+3106,4141,Sia,Model,No Tag
+3107,4141,Leather,Material,Material
+3108,4141,Crossbody,Type,Type
+3109,4141,Bag,Type,Type
+3110,4141,SKY,Color,Color
+3111,4141,BLUE,Color,Color
+3112,4151,LOUIS VUITTON,Brand,Brand
+3113,4151,Monogram,Pattern,Pattern
+3114,4151,Deauville,Model,Model
+3115,4151,Hand Bag,Type,Type
+3116,4151,M47270,MPN,MPN
+3117,4151,LV,Brand,Brand
+3118,4161,Fila,Brand,Brand
+3119,4161,Janice,Model,Model
+3120,4161,Duffle,Type,Type
+3121,4161,Backpack,Type,Type
+3122,4161,Bag,Type,Type
+3123,4161,Black,Color,Color
+3124,4161,Gym Travel School,Occasion,Occasion
+3125,4171,Daisy,Pattern,Pattern
+3126,4171,Waterproof,Features,Features
+3127,4171,Polyester,Material,Material
+3128,4171,Tote,Type,Type
+3129,4171,Bag,Type,Type
+3130,4171,Beige,Color,Color
+3131,4181,Louis Vuitton,Brand,Brand
+3132,4181,Damier,Product Line,Product Line
+3133,4181,Ebene,Color,Color
+3134,4181,Highbury,Model,Model
+3135,4181,Shoulder,Type,Type
+3136,4181,Bag,Type,Type
+3137,4181,N51200 8B220010m,MPN,
+3138,4191,CHANEL,Brand,Brand
+3139,4191,Classic,Model,Model
+3140,4191,Double Flap,Type,Type
+3141,4191,Medium,Size,Size
+3142,4191,Shoulder,Type,Type
+3143,4191,Bag,Type,Type
+3144,4191,Beige,Color,Color
+3145,4191,Lambskin,Material,Material
+3146,4201,Zebra,Pattern,Pattern
+3147,4201,Crossbody,Type,Type
+3148,4201,Purse,Type,Type
+3149,4201,Black,Color,Color
+3150,4201,Wristlet,Handle Style,Handle Style
+3151,4201,Wallet,Type,Type
+3152,4201,Vegan,Features,Features
+3153,4201,Faux Leather,Material,Material
+3154,4201,Organizer,Type,Type
+3155,4201,Clutch,Type,Type
+3156,4211,Vera Bradley,Brand,Brand
+3157,4211,Lighten Up Grand,Model,
+3158,4211,Backpack,Type,Type
+3159,4211,lunch,Type,Obscure
+3160,4211,bag,Type,Type
+3161,4211,Foxwood Meadow,Pattern,Pattern
+3162,4221,Chanel CHANEL,Brand,Brand
+3163,4221,Deauville GM,Model,Model
+3164,4221,A66941,MPN,MPN
+3165,4221,Canvas,Fabric Type,Fabric Type
+3166,4221,Sequin,Accents,Accents
+3167,4221,Gray,Color,Color
+3168,4221,SV,Color,Color
+3169,4221,Tote,Type,Type
+3170,4221,Bag,Type,Type
+3171,4221,Ladies,Department,Department
+3172,4231,Vera Bradley,Brand,Brand
+3173,4231,Hipster,Model,Model
+3174,4231,Crossbody,Type,Type
+3175,4231,Lisbon Medallion,Pattern,
+3176,4241,Prada,Brand,Brand
+3177,4241,Nylon,Material,Material
+3178,4241,Black,Color,Color
+3179,4241,Crossbody,Type,Type
+3180,4241,Bag,Type,Type
+3181,4251,Vera Bradley,Brand,Brand
+3182,4251,Tropical Paradise Villager,Model,Model
+3183,4251,Tote,Type,Type
+3184,4251,Purse,Type,Type
+3185,4251,Shoulder,Type,Type
+3186,4251,Travel,Occasion,Occasion
+3187,4251,Bag,Type,Type
+3188,4261,Coach,Brand,Brand
+3189,4261,Womens,Department,Department
+3190,4261,Hobo,Type,Type
+3191,4261,Handbag,Type,Type
+3192,4261,Black,Color,Color
+3193,4261,Leather,Material,Material
+3194,4261,Adjustable,Features,Features
+3195,4261,Strap,Handle Style,Handle Style
+3196,4261,Phone Pocket,Features,Features
+3197,4271,Miniature,Size,Size
+3198,4271,Tooled,Accents,Accents
+3199,4271,Leather,Material,Material
+3200,4271,Horse,Theme,Style
+3201,4271,Saddle,Type,Type
+3202,4271,Purse,Type,Type
+3203,4281,Prada,Brand,Brand
+3204,4281,Ruched,Accents,Fabric Type
+3205,4281,Gaufre,Model,Product Line
+3206,4281,Napa Leather,Material,Material
+3207,4281,Chameleon,Model,Model
+3208,4281,Bag Clutch,Type,Type
+3209,4281,Tortoise,Color,Color
+3210,4281,Chain,Handle/Strap Material,Handle/Strap Material
+3211,4291,Avatar the Last Air Bender,Character Family,
+3212,4291,Appa,Material,
+3213,4301,LOUIS VUITTON,Brand,Brand
+3214,4301,Sac Plat,Product Line,Product Line
+3215,4301,Tote,Type,Type
+3216,4301,Bag,Type,Type
+3217,4301,N51140,MPN,MPN
+3218,4301,Damier,Product Line,Product Line
+3219,4301,canvas,Fabric Type,Fabric Type
+3220,4301,Brown,Color,Color
+3221,4301,Ebene,Color,Color
+3222,4301,Women,Department,Department
+3223,4301,LV,Brand,Brand
+3224,4311,Chanel,Brand,Brand
+3225,4311,Tote,Type,Type
+3226,4311,bag,Type,Type
+3227,4311,travel line,Product Line,Product Line
+3228,4311,Black,Color,Color
+3229,4311,Woman,Department,Department
+3230,4311,Y4541,MPN,MPN
+3231,4321,Dunhill,Brand,Brand
+3232,4321,Clutch,Type,Type
+3233,4321,bag,Type,Type
+3234,4321,Black,Color,Color
+3235,4321,Gold,Color,Color
+3236,4321,leather,Material,Material
+3237,4321,Mens,Department,Department
+3238,4321,T8080,MPN,MPN
+3239,4331,Tod 's,Brand,Brand
+3240,4331,D-bag,Type,Model
+3241,4331,burgundy,Color,Color
+3242,4331,Kate Middleton,Brand,
+3243,4341,GUCCI,Brand,Brand
+3244,4341,Web Sherry Line,Product Line,Product Line
+3245,4341,GG,Brand,
+3246,4341,Shoulder,Type,Type
+3247,4341,Tote,Type,Type
+3248,4341,Bag,Type,Type
+3249,4341,PVC Leather,Material,Material
+3250,4341,Brown,Color,Color
+3251,4351,Alexande Wang,Brand,Brand
+3252,4351,Prisma,Model,Model
+3253,4351,Tote,Type,Type
+3254,4351,Bag,Type,Type
+3255,4361,Louis Vuitton,Brand,Brand
+3256,4361,LV,Brand,Brand
+3257,4361,Hand Bag,Type,Type
+3258,4361,Black,Color,Color
+3259,4361,Leather,Material,Material
+3260,4371,KIPLING,Brand,Brand
+3261,4371,DEFEA,Model,Model
+3262,4371,Handbag,Type,Type
+3263,4371,Shoulder,Type,Type
+3264,4371,CrossBody,Type,Type
+3265,4371,Bag,Type,Type
+3266,4371,Posies,Color,Color
+3267,4381,GUCCI,Brand,Brand
+3268,4381,GG,Brand,Brand
+3269,4381,Canvas,Fabric Type,Fabric Type
+3270,4381,Tote,Type,Type
+3271,4381,Bag,Type,Type
+3272,4381,Brown,Color,Color
+3273,4391,LOUIS VUITTON,Brand,Brand
+3274,4391,LV,Brand,Brand
+3275,4391,Alma,Model,Model
+3276,4391,Hand Bag,Type,Type
+3277,4391,Epi Leather,Material,Material
+3278,4391,Noir,Color,Color
+3279,4391,France,Country/Region of Manufacture,Country/Region of Manufacture
+3280,4391,M52142 93MG697,MPN,MPN
+3281,4401,Bottega Veneta,Brand,Brand
+3282,4401,Tan,Color,Color
+3283,4401,Ostrich,Material,Material
+3284,4401,Hobo,Type,Type
+3285,4411,Salvatore Ferragamo,Brand,Brand
+3286,4411,Black,Color,Color
+3287,4411,Leather,Material,Material
+3288,4411,Vara RW,Model,Model
+3289,4411,Bow,Accents,Accents
+3290,4411,Small,Size,Size
+3291,4411,Shoulder,Type,Type
+3292,4411,Bag,Type,Type
+3293,4421,LOUIS VUITTON,Brand,Brand
+3294,4421,ALMA,Model,Model
+3295,4421,HAND BAG,Type,Type
+3296,4421,PURSE,Type,Type
+3297,4421,MONOGRAM,Pattern,Pattern
+3298,4421,CANVAS,Fabric Type,Fabric Type
+3299,4421,M51130 VI0955,MPN,
+3300,4431,Valentino,Brand,Brand
+3301,4431,Rolling,Model,Model
+3302,4431,Rockstud,Accents,Accents
+3303,4431,Drawstring,Closure,Closure
+3304,4431,Bucket,Type,Type
+3305,4431,Bag,Type,Type
+3306,4431,Leather,Material,Material
+3307,4431,Cabochons,Accents,Accents
+3308,4431,Mini,Size,Size
+3309,4441,JUDITH LEIBER,Brand,Brand
+3310,4441,SWAROVSKI CRYSTAL HEART,Accents,Accents
+3311,4441,GOLD,Color,Color
+3312,4441,MINAUDIERE,Style,Style
+3313,4441,CLUTCH,Type,Type
+3314,4441,Evening,Occasion,Occasion
+3315,4441,Bag,Type,Type
+3316,4451,Louis Vuitton,Brand,Brand
+3317,4451,Handbag,Type,Type
+3318,4451,Reporter,Model,Model
+3319,4451,Luxury,Theme,Theme
+3320,4451,Bag,Type,Type
+3321,4461,Kate Spade,Brand,Brand
+3322,4461,Mulberry,Brand,
+3323,4461,Vivian Hot Chili,Model,
+3324,4461,Leather,Material,Material
+3325,4461,Hobo,Type,Type
+3326,4461,Bag,Type,Type
+3327,4461,WKRU4138,MPN,MPN
+3328,4461,Red,Color,Color
+3329,4471,Large,Size,Size
+3330,4471,leather,Material,Material
+3331,4471,horsebit,Accents,Accents
+3332,4471,Gucci,Brand,Brand
+3333,4471,handbag,Type,Type
+3334,4481,Chanel,Brand,Brand
+3335,4481,Small,Size,Size
+3336,4481,Coco,Product Line,Product Line
+3337,4481,Handle,Handle Style,Handle Style
+3338,4481,Chevron,Pattern,Pattern
+3339,4481,Caviar,Product Line,Product Line
+3340,4481,Quilted,Features,Features
+3341,4481,Flap,Type,Type
+3342,4481,Bag,Type,Type
+3343,4481,Black,Color,Color
+3344,4491,CASPAR,Brand,Brand
+3345,4491,TA310,MPN,No Tag
+3346,4491,Women,Department,Department
+3347,4491,Envelope,Type,Type
+3348,4491,Clutch,Type,Type
+3349,4491,Evening,Occasion,Occasion
+3350,4491,Bag,Type,Type
+3351,4491,Shoulder Strap,Handle Style,Handle Style
+3352,4501,Chanel,Brand,Brand
+3353,4501,Belt,Type,Type
+3354,4501,bag,Type,Type
+3355,4511,burberry,Brand,Brand
+3356,4511,purse,Type,Type
+3357,4521,Coin,Type,
+3358,4521,Purse,Type,
+3359,4521,Bag,Type,Type
+3360,4521,Fidget,Character,
+3361,4521,Rainbow,Pattern,Color
+3362,4521,Bubble,Pattern,Accents
+3363,4531,BOOK OF SPELLS,Theme,Theme
+3364,4531,VINYL,Accents,Material
+3365,4531,CROSSBODY,Type,Type
+3366,4531,BAG,Type,Type
+3367,4531,CLUTCH,Type,Type
+3368,4531,WRISTLET,Handle Style,Handle Style
+3369,4541,HERMES,Brand,Brand
+3370,4541,Toile de Camp Dechainee,Model,Model
+3371,4541,Canvas,Fabric Type,Fabric Type
+3372,4541,Black,Color,Color
+3373,4541,35cm,"Measurement, dimension","Measurement, dimension"
+3374,4541,Birkin,Product Line,Product Line
+3375,4541,Bag,Type,Type
+3376,4551,Gucci,Brand,Brand
+3377,4551,GG Supreme,Product Line,Product Line
+3378,4551,Arabesque,Model,Model
+3379,4551,Small,Size,Size
+3380,4551,Boston,Type,Type
+3381,4551,Top Handle,Handle Style,Handle Style
+3382,4551,Shoulder,Type,Type
+3383,4551,Bag,Type,Type
+3384,4551,Red,Color,Color
+3385,4561,Louis Vuitton,Brand,Brand
+3386,4561,M45392,MPN,MPN
+3387,4561,Monogram,Pattern,Pattern
+3388,4561,Eclipse,Model,Model
+3389,4561,Keepall,Product Line,Product Line
+3390,4561,Bandouliere,Type,Type
+3391,4561,50,Model,Model
+3392,4561,Gray,Color,Color
+3393,4561,Black,Color,Color
+3394,4561,Boston,Type,Type
+3395,4571,Burberry,Brand,Brand
+3396,4571,Ashby,Model,Model
+3397,4571,check,Pattern,Pattern
+3398,4571,tassel,Accents,Accents
+3399,4571,hobo,Type,Type
+3400,4571,tote,Type,Type
+3401,4571,Medium,Size,Size
+3402,4571,crossbody,Type,Type
+3403,4571,bag,Type,Type
+3404,4571,brown,Color,Color
+3405,4581,FOSSIL,Brand,Brand
+3406,4581,MADDOX,Model,Model
+3407,4581,TOP-ZIP,Closure,Closure
+3408,4581,FLAMINGO,Pattern,Color
+3409,4581,PINK,Color,Color
+3410,4581,LEATHER,Material,Material
+3411,4581,SATCHEL,Type,Type
+3412,4581,CROSSBODY,Type,Type
+3413,4581,HAND BAG,Type,Type
+3414,4581,PURSE,Type,Type
+3415,4591,LOUIS VUITTON,Brand,Brand
+3416,4591,BUCKET PM,Product Line,Product Line
+3417,4591,Shoulder,Type,Type
+3418,4591,Bag,Type,Type
+3419,4591,Monogram,Pattern,Pattern
+3420,4591,Leather,Material,Material
+3421,4591,France,Country/Region of Manufacture,Country/Region of Manufacture
+3422,4591,M42238 34BU048,MPN,
+3423,4601,LOUIS VUITTON,Brand,Brand
+3424,4601,CABAS PIANO,Model,Model
+3425,4601,HAND,Type,Type
+3426,4601,TOTE,Type,Type
+3427,4601,BAG,Type,Type
+3428,4601,PURSE,Type,Type
+3429,4601,MONOGRAM,Pattern,Pattern
+3430,4601,M51148 VI0014,MPN,MPN
+3431,4611,Laurel Burch,Brand,Brand
+3432,4611,Dog & Doggies Papillon Dogs,Model,
+3433,4611,Black,Color,Color
+3434,4611,Brights,Hardware Material,No Tag
+3435,4611,Travel,Occasion,Occasion
+3436,4611,Tote,Type,Type
+3437,4611,Bag,Type,Type
+3438,4621,Paloma Picasso,Brand,Brand
+3439,4621,Black,Color,Color
+3440,4621,Gold,Color,Color
+3441,4621,Leather,Material,Material
+3442,4621,Tassel,Accents,Accents
+3443,4621,Crossbody,Type,Type
+3444,4621,Women 's,Department,Department
+3445,4621,Bag,Type,Type
+3446,4631,Michael Kors,Brand,Brand
+3447,4631,Kenly,Model,Model
+3448,4631,Large,Size,Size
+3449,4631,Tote,Type,Type
+3450,4631,Satchel,Type,Type
+3451,4631,Bag,Type,Type
+3452,4631,Brown,Color,Color
+3453,4631,Graphic,Pattern,
+3454,4631,Logo,Accents,
+3455,4631,MK,Brand,Brand
+3456,4631,Black,Color,Color
+3457,4641,CHANEL,Brand,Brand
+3458,4641,BAG,Type,Type
+3459,4641,BAG,Type,Type
+3460,4641,SHOUDER,Style,Handle Style
+3461,4641,BAG,Type,Type
+3462,4641,BAG,Type,Type
+3463,4641,BLACK,Color,Color
+3464,4641,GOLD,Color,Color
+3465,4641,MATELASSE,Pattern,Pattern
+3466,4641,LAMBSKIN,Material,Material
+3467,4641,CHOULDER STRAP,Handle Style,Handle Style
+3468,4651,GHURKA,Brand,Brand
+3469,4651,The Expediter No 34,Model,Product Line
+3470,4651,Brown,Color,Color
+3471,4651,Leather,Material,Material
+3472,4651,Briefcase,Type,Type
+3473,4661,Michael Kors,Brand,Brand
+3474,4661,Leather,Material,Material
+3475,4661,Carine,Model,Model
+3476,4661,Crossbody,Type,Type
+3477,4661,Bag,Type,Type
+3478,4661,Light,Color,Color
+3479,4661,Sand,Color,Color
+3480,4661,Beige,Color,Color
+3481,4671,Kathy Van Zeeland,Brand,Brand
+3482,4671,TOTE,Type,Type
+3483,4671,Signature,Pattern,No Tag
+3484,4671,FLOWER,Pattern,Pattern
+3485,4671,Jacquard,Fabric Type,Fabric Type
+3486,4671,Key Charm,Accents,Accents
+3487,4671,HOBO,Type,Type
+3488,4671,Bag,Type,Type
+3489,4681,Gucci,Brand,Brand
+3490,4681,GG,Brand,Brand
+3491,4681,star,Pattern,Pattern
+3492,4681,tote,Type,Type
+3493,4681,bag,Type,Type
+3494,4681,PVC,Material,Material
+3495,4681,Beige,Color,Color
+3496,4681,light,Color,Color
+3497,4681,blue,Color,Color
+3498,4681,1215 * 3464,"Measurement, dimension","Measurement, dimension"
+3499,4691,LOUIS VUITTON,Brand,Brand
+3500,4691,Noe,Model,Model
+3501,4691,M42224,MPN,MPN
+3502,4691,Monogram,Pattern,Pattern
+3503,4691,AR0934,MPN,No Tag
+3504,4691,Womens,Department,Department
+3505,4691,Shoulder,Type,Type
+3506,4691,Bag,Type,Type
+3507,4701,Kanken,Material,
+3508,4701,No. 2,Model,
+3509,4701,16L,"Measurement, dimension","Measurement, dimension"
+3510,4701,Backpack,Type,Type
+3511,4711,Bicycle,Type,Obscure
+3512,4711,Bicycle,Type,Obscure
+3513,4711,Baskets,Type,Obscure
+3514,4711,Rattan,Material,Material
+3515,4711,Small,Size,Obscure
+3516,4711,Back,Type,Obscure
+3517,4711,Basket,Type,Type
+3518,4711,Children Child,Department,
+3519,4711,Bicycle,Occasion,Obscure
+3520,4711,Bicycle,Occasion,Obscure
+3521,4721,Fendi,Brand,Brand
+3522,4721,FF,Pattern,Pattern
+3523,4721,White,Color,Color
+3524,4721,Lamb Leather,Material,Material
+3525,4721,Nano,Model,Style
+3526,4721,Baguette,Type,Type
+3527,4721,Charm,Accents,Accents
+3528,4721,Crossbody,Type,Type
+3529,4721,Bag Clutch,Type,Type
+3530,4721,Purse,Type,Type
+3531,4731,Multicolor,Color,Color
+3532,4731,Patchwork,Pattern,Pattern
+3533,4731,Leather,Material,Material
+3534,4731,Women 's,Department,Department
+3535,4731,Backpack,Type,Type
+3536,4731,Shoulder,Type,Type
+3537,4731,Handbag,Type,
+3538,4731,Bags,Type,
+3539,4741,Bolso,Type,Type
+3540,4741,Mujer,Department,Department
+3541,4741,Casual,Occasion,Occasion
+3542,4741,Bolso De Mano,Type,Type
+3543,4751,COACH,Brand,Brand
+3544,4751,Swagger 21,Model,
+3545,4751,Carryall,Type,Type
+3546,4751,Satchel,Type,Type
+3547,4751,Bag,Type,Type
+3548,4751,Rainbow,Pattern,
+3549,4751,Colorblock,Pattern,
+3550,4751,Azure,Color,Color
+3551,4761,Marc Jacobs,Brand,Brand
+3552,4761,The,Model,
+3553,4761,MINI,Size,
+3554,4761,SQUEEZE,Model,
+3555,4761,Half-Moon,Features,Type
+3556,4761,Crossbody,Type,Type
+3557,4761,Bag,Type,Type
+3558,4761,Vivid,Color,Color
+3559,4761,Pink,Color,Color
+3560,4771,Valentino,Brand,Brand
+3561,4771,Rockstud,Accents,Accents
+3562,4771,Floral,Pattern,Pattern
+3563,4771,Strap,Handle Style,Handle Style
+3564,4771,Strap,Handle Style,Handle Style
+3565,4771,Bag Strap,Type,
+3566,4781,HERMES,Brand,Brand
+3567,4781,Garden Party,Product Line,Product Line
+3568,4781,PM,Model,Model
+3569,4781,Tote,Type,Type
+3570,4781,Bag,Type,Type
+3571,4781,Leather,Material,Material
+3572,4781,Brown,Color,Color
+3573,4791,LOUIS VUITTON,Brand,Brand
+3574,4791,Saks FC,Model,Model
+3575,4791,Tote,Type,Type
+3576,4791,Suitcase,Type,Type
+3577,4791,Luggage,Type,Type
+3578,4791,Bag,Type,Type
+3579,4791,Keepall,Product Line,Product Line
+3580,4801,LOUIS VUITTON,Brand,Brand
+3581,4801,Giant,Size,Size
+3582,4801,Monogram,Pattern,Pattern
+3583,4801,On the Go MM,Model,Model
+3584,4801,2way,Features,Features
+3585,4801,Tote,Type,Type
+3586,4801,Shoulder,Type,Type
+3587,4801,Bag,Type,Type
+3588,4801,M45039,MPN,MPN
+3589,4811,LOUIS VUITTON,Brand,Brand
+3590,4811,BUCKET PM,Product Line,Product Line
+3591,4811,PURSE,Type,Type
+3592,4811,POUCH,Type,Type
+3593,4811,BAG,Type,Type
+3594,4811,MONOGRAM,Pattern,Pattern
+3595,4821,IVORY CHANEL,Brand,
+3596,4821,CLASSIC,Model,Model
+3597,4821,DOUBLE FLAP,Type,Type
+3598,4821,LAMBSKIN,Material,Material
+3599,4821,BAG,Type,Type
+3600,4821,24K,Hardware Material,
+3601,4821,GOLD PLATED,Hardware Material,
+3602,4831,Kah & Kee,Brand,Brand
+3603,4831,Lavender,Color,Color
+3604,4831,Purple,Color,Color
+3605,4831,Backpack,Type,Type
+3606,4831,Diaper,Type,No Tag
+3607,4831,Bag,Type,Type
+3608,4841,COACH,Brand,Brand
+3609,4841,Signature,Pattern,
+3610,4841,corner,Style,No Tag
+3611,4841,zip,Closure,Closure
+3612,4841,wristlet,Handle Style,Handle Style
+3613,4841,wallet,Type,Type
+3614,4841,Black,Color,Color
+3615,4841,F58032,MPN,MPN
+3616,4851,LOUIS VUITTON,Brand,Brand
+3617,4851,PAPILLON 26,Model,Model
+3618,4851,HAND BAG,Type,Type
+3619,4851,PURSE,Type,Type
+3620,4851,DAMIER,Product Line,Product Line
+3621,4851,CANVAS,Fabric Type,Fabric Type
+3622,4851,N51304,MPN,MPN
+3623,4861,Vera Bradley,Brand,
+3624,4861,Grand Traveler,Model,
+3625,4861,Lotus,Pattern,Obscure
+3626,4861,Flower,Pattern,Obscure
+3627,4861,Quilted,Features,Obscure
+3628,4861,Cotton,Material,Obscure
+3629,4871,Chanel,Brand,Brand
+3630,4871,Ivory,Color,Color
+3631,4871,Creme,Color,Color
+3632,4871,Soft,Features,Features
+3633,4871,Caviar,Product Line,Product Line
+3634,4871,French,Country/Region of Manufacture,Model
+3635,4871,Riviera,Model,"Measurement, dimension"
+3636,4871,Tote,Type,Type
+3637,4871,Hobo,Type,Type
+3638,4871,Shopping,Type,Type
+3639,4871,GST,Model,Model
+3640,4881,CHANEL,Brand,Brand
+3641,4881,CC Logo,Accents,Accents
+3642,4881,Matelasse,Pattern,Pattern
+3643,4881,Chain,Handle/Strap Material,Handle/Strap Material
+3644,4881,Hand Bag,Type,Type
+3645,4881,Leather,Material,Material
+3646,4881,Black,Color,Color
+3647,4881,France,Country/Region of Manufacture,Country/Region of Manufacture
+3648,4881,94MQ067,MPN,MPN
+3649,4891,B.Makowsky,Brand,Brand
+3650,4891,Green,Color,Color
+3651,4891,Green,Color,Color
+3652,4891,Leather Suede,Material,Material
+3653,4891,Hobo,Type,Type
+3654,4891,Bag,Type,Type
+3655,4891,Gold,Color,Color
+3656,4891,Emerald,Color,Color
+3657,4891,Green,Color,Color
+3658,4891,Green,Color,Color
+3659,4891,Purse,Type,Type
+3660,4901,COACH,Brand,Brand
+3661,4901,ROUGE SCOUT,Model,
+3662,4901,LEATHER,Material,Material
+3663,4901,HOBO,Type,Type
+3664,4901,SHOULDER,Type,Type
+3665,4901,BAG,Type,Type
+3666,4911,COACH,Brand,Brand
+3667,4911,CAMPBELL,Product Line,Model
+3668,4911,LEATHER,Material,Material
+3669,4911,TRIPLE ENTRY,Features,
+3670,4911,HOBO,Type,Type
+3671,4911,SHOULDER,Type,Type
+3672,4911,BAG,Type,Type
+3673,4921,BIOWORLD Bio World,Brand,Brand
+3674,4921,Harry Potter Hogwarts Express,Character,Character
+3675,4921,Chain,Handle/Strap Material,Handle/Strap Material
+3676,4921,Shoulder,Type,Type
+3677,4921,Bag,Type,Type
+3678,4931,LOUIS VUITTON,Brand,Brand
+3679,4931,Alma,Model,Model
+3680,4931,M51130,MPN,MPN
+3681,4931,Monogram,Pattern,Pattern
+3682,4931,TH0977,MPN,No Tag
+3683,4931,Womens,Department,Department
+3684,4931,Handbag,Type,Type
+3685,4941,MICHAEL KORS,Brand,Brand
+3686,4941,CHARLOTTE,Product Line,Product Line
+3687,4941,Pebbled,Pattern,Pattern
+3688,4941,Leather,Material,Material
+3689,4941,LARGE,Size,Size
+3690,4941,SATCHEL,Type,Type
+3691,4941,SHOULDER,Type,Type
+3692,4941,BAG,Type,Type
+3693,4951,MCM,Brand,Brand
+3694,4951,Neon,Color,Obscure
+3695,4951,Pink,Color,Color
+3696,4951,Coated Canvas,Fabric Type,Fabric Type
+3697,4951,Rockstar,Model,Obscure
+3698,4951,Vanity,Style,Style
+3699,4951,Case,Type,Obscure
+3700,4951,Bag,Type,Type
+3701,4961,Authenic,Style,No Tag
+3702,4961,Chanel,Brand,Brand
+3703,4961,Cambon,Product Line,Product Line
+3704,4961,Quilted,Features,Features
+3705,4961,CC Logo,Accents,Accents
+3706,4961,Tote,Type,Type
+3707,4961,Bag,Type,Type
+3708,4961,White,Color,Color
+3709,4961,B4472,MPN,MPN
+3710,4961,Lambskin,Material,Material
+3711,4971,Chala,Brand,Brand
+3712,4971,Crossbody,Type,Type
+3713,4971,Bag,Type,Type
+3714,4971,Zipper,Closure,Closure
+3715,4971,Flap,Type,Type
+3716,4971,Top,Type,Style
+3717,4971,Slim,Style,Style
+3718,4971,Cat,Pattern,No Tag
+3719,4971,keyChain,Accents,No Tag
+3720,4971,red,Color,Color
+3721,4981,PRADA,Brand,Brand
+3722,4981,Canapa,Model,Model
+3723,4981,Canvas,Fabric Type,Fabric Type
+3724,4981,Tote,Type,Type
+3725,4981,Hand Bag,Type,Type
+3726,4981,Pink,Color,Color
+3727,4991,TORY BURCH,Brand,Brand
+3728,4991,ROBINSON,Model,Model
+3729,4991,Striped,Pattern,Pattern
+3730,4991,Shoulder,Type,Type
+3731,4991,Bag,Type,Type
+3732,4991,IVORY,Color,Color
+3733,4991,Saffiano,Material,Material
