@@ -1,6 +1,7 @@
 # ebay-umlc
 eBay 2022 University Machine Learning Competition team POOPy
-
+https://eval.ai/web/challenges/challenge-page/1733/leaderboard/4120
+Finished 9th place
 
 # Environment Setup
 Install VSCode to run the ipynb files
